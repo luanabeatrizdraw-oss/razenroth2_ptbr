@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<!-- Loading -->
+<Key Id="s_gui_loading">Carregando nível</Key>
+
+<!--Sellers names-->
+<Key Id="s_npc_name_sprzwszyst">Mercador misterioso</Key>
+<Key Id="s_npc_name_sprzbroni">Mercador de armas</Key>
+<Key Id="s_npc_name_sprzpasy">Mercador de itens passivos</Key>
+<Key Id="s_npc_name_sprzubra">Mercador de roupas</Key>
+
+<!--Levels names-->
+<Key Id="s_np_badlands">Terras devastadas</Key>
+<Key Id="s_np_badlands_cierniak">Chefe Espinhoso</Key>
+<Key Id="s_np_badlands_bezglowy">Chefe sem cabeça</Key>
+<Key Id="s_np_badlands_dporostow">Chefe Árvore Crescida</Key>
+<Key Id="s_np_cmentarz">Cemitério</Key>
+<Key Id="s_np_cmentarz_mieso">Chefe Carne</Key>
+<Key Id="s_np_cmentarz_magszkielet">Chefe Esqueleto Mago</Key>
+<Key Id="s_np_cmentarz_zombietoksyczny">Chefe Zumbi Tóxico</Key>
+<Key Id="s_np_zaipodz">Subterrâneo infectado</Key>
+<Key Id="s_np_zaipodz_grzyb">Chefe Cogumelo</Key>
+<Key Id="s_np_zaipodz_plesn">Chefe Mofo</Key>
+<Key Id="s_np_zaipodz_golem">Chefe Golem</Key>
+<Key Id="s_np_nawlas">Floresta Assombrada</Key>
+<Key Id="s_np_nawlas_szaman">Chefe Xamã</Key>
+<Key Id="s_np_nawlas_strach">Chefe Espantalho</Key>
+<Key Id="s_np_dusza">Chefe Fantasma</Key>
+<Key Id="s_np_kracieni">Terra das Sombras</Key>
+<Key Id="s_np_raz">Chefe Razenroth</Key>
+<Key Id="s_np_secskarb">Cofre</Key>
+<Key Id="s_np_secodchaln">Limbo</Key>
+<Key Id="s_np_secpodziemia">Submundo</Key>
+<Key Id="s_np_secokatakumby">Catacumbas</Key>
+
+<!--Level information-->
+<Key Id="s_typo_informacje">Informações do nível</Key>
+<Key Id="s_typo_poziomu">Tipo</Key>
+<Key Id="s_typo_nazwapozio">Nome do nível</Key>
+<Key Id="s_typo_numprzejscgry">Número de conclusões do jogo</Key>
+<Key Id="s_typo_num_poziomu">Número do nível</Key>
+<Key Id="s_typo_numreodzial">Número do capítulo</Key>
+
+<Key Id="s_typo_kraina">Território</Key>
+<Key Id="s_typo_boss">Chefe</Key>
+<Key Id="s_typo_sekret">Local secreto</Key>
+
+<!--Bosses names-->
+<Key Id="s_boss_cierniak">Espinho</Key>
+<Key Id="s_boss_bezglowy">Sem cabeça</Key>
+<Key Id="s_boss_dzporostami">Árvore crescida</Key>
+<Key Id="s_boss_golgrzybowy">Golem mofado</Key>
+<Key Id="s_boss_grzyb">Cogumelo</Key>
+<Key Id="s_boss_magszkielet">Esqueleto mago</Key>
+<Key Id="s_boss_mieso">Carne</Key>
+<Key Id="s_boss_plesn">Mofo</Key>
+<Key Id="s_boss_strach">Espantalho</Key>
+<Key Id="s_boss_szaman">Xamã</Key>
+<Key Id="s_boss_tokzombie">Zumbi tóxico</Key>
+<Key Id="s_boss_dusza">Fantasma</Key>
+<Key Id="s_boss_razenroth">Razenroth</Key>
+
+<!--Characters names-->
+<Key Id="s_postac_czarls">Charles</Key>
+<Key Id="s_postac_dziadek">Vovô</Key>
+<Key Id="s_postac_druid">Senhor dos fungos</Key>
+<Key Id="s_postac_nieumarlak">Zumbi</Key>
+<Key Id="s_postac_nekromanta">Necromante</Key>
+<Key Id="s_postac_priest">Sacerdote</Key>
+
+<Key Id="s_postac_info">Informações do personagem:</Key>
+
+<!--Characters description-->
+<Key Id="s_postac_czarls_info">Domina projéteis mágicos como ninguém.</Key>
+<Key Id="s_postac_dziadek_info">Especialista em magia de gelo.</Key>
+<Key Id="s_postac_druid_info">Hordas de cogumelos venenosos o ajudam na batalha.</Key>
+<Key Id="s_postac_nieumarlak_info">Usa substâncias tóxicas e nuvens de gás venenoso.</Key>
+<Key Id="s_postac_nekromanta_info">Pode invocar os mortos-vivos para auxiliá-lo na batalha.</Key>
+<Key Id="s_postac_priest_info">O único capaz de usar poder divino.</Key>
+
+<!--Characters requirements-->
+<Key Id="s_postac_druid_unl">Você desbloqueia este personagem ao comprar melhorias nas ruínas.</Key>
+<Key Id="s_postac_nieumarlak_unl">Para desbloquear este personagem você precisa coletar partes de zumbis no cemitério.</Key>
+<Key Id="s_postac_nekromanta_unl">Para desbloquear este personagem você precisa matar monstros.</Key>
+<Key Id="s_postac_priest_unl">Este personagem será desbloqueado ao concluir o jogo.</Key>
+
+<Key Id="s_bomb">Bombas</Key>
+<Key Id="s_armor">Armadura</Key>
+<Key Id="s_hp">Vida</Key>
+<Key Id="s_dolar">Ouro</Key>
+<Key Id="s_ammo">Mana</Key>
+<Key Id="s_immune">Invulnerabilidade</Key>
+<Key Id="s_unik">Esquiva</Key>
+<Key Id="s_critical">Crítico</Key>
+<Key Id="s_klucz">Chaves</Key>
+<Key Id="s_krysztal">Cristais escuros</Key>
+<Key Id="s_resztki_zoombie">Partes de zumbi</Key>
+
+<!--Ranks-->
+<Key Id="s_ranga_up">Rank aumentado</Key>
+<Key Id="s_ranga_up_o">Seu rank foi aumentado</Key>
+
+<Key Id="s_rangapart_up">Conquista</Key>
+<Key Id="s_rangapart_up_o">Você completou uma parte do rank</Key>
+
+<!--Rare elements-->
+<Key Id="s_ez_kopkasy">Mina de ouro</Key>
+
+<!--Talents statistic-->
+<Key Id="s_stat_talent_zycie">Vida</Key>
+<Key Id="s_stat_talent_pancerz">Armadura</Key>
+<Key Id="s_stat_talent_obrpociskow">Dano de projéteis</Key>
+<Key Id="s_stat_talent_obraoe">Dano de explosão</Key>
+<Key Id="s_stat_talent_obrdot">Dano contínuo</Key>
+<Key Id="s_stat_talent_critszansa">Chance crítica</Key>
+<Key Id="s_stat_talent_citdamage">Dano crítico</Key>
+<Key Id="s_stat_talent_szybkosc">Velocidade de movimento</Key>
+<Key Id="s_stat_talent_ilamo">Mana</Key>
+<Key Id="s_stat_talent_mpt">Mana ao acertar</Key>
+<Key Id="s_stat_talent_regmany">Regeneração de mana</Key>
+<Key Id="s_stat_talent_obrmele">Dano corpo a corpo</Key>
+
+<!--Tooltip window-->
+<Key Id="s_ok_nowy_poziom">Novo nível</Key>
+
+<!--Tooltips statistic-->
+<Key Id="s_stat_zycie">Vida</Key>
+<Key Id="s_stat_bazowaszybkosc">Velocidade base</Key>
+<Key Id="s_stat_szybkoscporuszania">Velocidade de movimento</Key>
+<Key Id="s_stat_pancerzdropiony">Armadura</Key>
+<Key Id="s_stat_pancerzredukcjiobrazen">Redução de dano</Key>
+<Key Id="s_stat_obrazeniakrytyczne">Dano crítico</Key>
+<Key Id="s_stat_szansanakrytyczne">Chance crítica</Key>
+<Key Id="s_stat_redukcjacdbronpodstawowa">Velocidade da arma básica</Key>
+<Key Id="s_stat_redukcjacdbronamunicja">Velocidade da arma de mana</Key>
+<Key Id="s_stat_obrazeniapociskow">Dano de projéteis</Key>
+<Key Id="s_stat_obrazeniaaoe">Dano de explosão</Key>
+<Key Id="s_stat_obrazeniadot">Dano contínuo</Key>
+<Key Id="s_stat_obrazeniamelee">Dano corpo a corpo</Key>
+<Key Id="s_stat_redukcjakosztuamunicji">Redução de custo de mana</Key>
+<Key Id="s_stat_brakzuzyciaamunicji">Sem consumo de mana</Key>
+<Key Id="s_stat_immune">Imortalidade</Key>
+<Key Id="s_stat_szansanaunik">Chance de esquiva</Key>
+<Key Id="s_stat_redukcjaobrazen">Redução de dano</Key>
+<Key Id="s_stat_zasiegbronimele">Alcance corpo a corpo</Key>
+<Key Id="s_stat_zasiegpociskow">Alcance de projéteis</Key>
+<Key Id="s_stat_redukcjacdskilone">Recarga habilidade principal</Key>
+<Key Id="s_stat_redujcacdskiltwo">Recarga habilidade especial</Key>
+<Key Id="s_stat_amunicja">Mana</Key>
+
+<!-- Special tooltips -->
+<Key id="s_stat_s_bazowycoldown">Velocidade de ataque da arma</Key>
+<Key id="s_stat_s_dodatkowaszansakrytyczne">Chance crítica adicional</Key>
+<Key id="s_stat_s_dodatkoweobrazeniakrytyczne">Dano crítico adicional</Key>
+<Key id="s_stat_s_iloscpociskow">Número de projéteis</Key>
+<Key id="s_stat_s_kontpadaniapociskow">Ângulo do disparo</Key>
+<Key id="s_stat_s_niszczypociskiwroga">Destrói projéteis inimigos</Key>
+<Key id="s_stat_s_niszczytile">Destrói paredes</Key>
+<Key id="s_stat_s_obrazeniaaoe">Tipo de dano: explosão</Key>
+<Key id="s_stat_s_obrazeniabomba">Tipo de dano: bomba</Key>
+<Key id="s_stat_s_obrazeniadot">Tipo de dano: contínuo</Key>
+<Key id="s_stat_s_obrazeniapocisk">Tipo de dano: projéteis</Key>
+<Key id="s_stat_s_odbijapociskiwroga">Reflete projéteis inimigos</Key>
+<Key id="s_stat_s_predkoscpocisku">Velocidade do projétil</Key>
+<Key id="s_stat_s_promienrazenia">Ângulo de dano</Key>
+<Key id="s_stat_s_zadajeobrazeniatilom">Dano em paredes</Key>
+<Key id="s_stat_s_zadawaneobrazenia">Danos causados</Key>
+<Key id="s_stat_s_zasiegpbroni">Alcance</Key>
+<Key id="s_stat_s_zuzycieamunicji">Consumo de mana</Key>
+<Key id="s_stat_s_pociski_odbite_bija">Projéteis refletidos causam dano</Key>
+<Key id="s_stat_s_promien_razenia">Ângulo de dano</Key>
+<Key id="s_stat_s_kont_udezenia_mele">Ângulo de impacto</Key>
+
+<Key id="s_stat_s_prz_wrog">Perfura inimigos</Key>
+<Key id="s_stat_s_prz_wszytsko">Perfura tudo</Key>
+<Key id="s_stat_s_odb_od_wrog">Ricochete em inimigos</Key>
+<Key id="s_stat_s_odb_od_tilow">Ricochete em paredes</Key>
+<Key id="s_stat_s_prz_tile">Perfura paredes</Key>
+<Key id="s_stat_s_klucze">Chaves</Key>
+<Key id="s_stat_s_zloto">Ouro</Key>
+<Key id="s_stat_s_krysztaly">Cristais escuros</Key>
+
+<Key Id="s_stat_s_rdkoszkup">Redução de custo de compra</Key>
+<Key Id="s_stat_s_rdksziegi">Redução de recarga de livros</Key>
+<Key Id="s_stat_s_szitlecz">Chance de item de cura</Key>
+<Key Id="s_stat_s_kmptra">Mana ao acertar</Key>
+<Key Id="s_stat_s_regmany">Regeneração de mana</Key>
+<Key Id="s_stat_s_cd">Tempo de recarga</Key>
+
+
+</Languages>

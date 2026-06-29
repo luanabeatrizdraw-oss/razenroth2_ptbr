@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<!--Talk-->
+<Key Id="qu_mowa_npc_sprz_wszy">Venha aqui, estrangeiro. Tenho algumas mercadorias interessantes à venda.</Key>
+<Key Id="qu_mowa_studia_full_hp">Não preciso de cura.</Key>
+<Key Id="qu_mowa_studia_pusta">O poço está vazio.</Key>
+<Key Id="qu_mowa_npc_sprz_broni">Precisa de armas? Acho que tenho algo adequado — não de graça, claro.</Key>
+<Key Id="qu_mowa_pochodnia">Esta tocha tem o número:</Key>
+
+<Key Id="qu_mowa_npc_sprz_pasyw">Tenho alguns itens interessantes à venda.</Key>
+<Key Id="qu_mowa_npc_sprz_ubran">Vendo roupas. Se estiver interessado, venha ver.</Key>
+<Key Id="qu_mowa_npc_worek_uciekajacy">Não me mate, por favor.</Key>
+<Key Id="qu_mowa_npc_zlota_skala">Por favor, não me machuque.</Key>
+
+<Key Id="qu_mowa_mroczy_potion_1">Não posso usar este item neste momento.</Key>
+<Key Id="qu_mowa_mroczy_potion_2">Não posso usá-lo aqui.</Key>
+
+<Key Id="qu_mowa_plonstoja">Há algo aqui, mas primeiro preciso apagar o fogo.</Key>
+<Key Id="qu_mowa_plonstoja_beczka">Este barril está cheio de água.</Key>
+
+<Key Id="qu_mowa_statdemona">Esta estátua está sem uma perna.</Key>
+<Key Id="qu_mowa_statdemona_noga">Isto parece uma perna.</Key>
+
+<Key Id="qu_mowa_farmdusz_pocz">Olá, estrangeiro. Almas perdidas estão vagando por aqui. Eu deveria vigiá-las, mas falhei. Você poderia procurá-las?</Key>
+<Key Id="qu_mowa_farmdusz_kon">Obrigado pela ajuda. Aqui está sua recompensa.</Key>
+
+<Key Id="qu_mowa_mroczportal_akty">Ao me aproximar, este altar estranho ganhou vida.</Key>
+<Key Id="qu_mowa_mroczportal_spawn">Parece que o altar fez o fantasma aparecer.</Key>
+<Key Id="qu_mowa_mroczportal_koniec">Devo voltar ao altar e ver o que aconteceu.</Key>
+
+<Key Id="qu_mowa_jablonka">Esta árvore parece precisar de água; talvez eu encontre um pouco por perto.</Key>
+
+<!--Events-->
+
+<!--Outro-->
+<Key Id="qu_outro_1_sc_1">Após derrotarmos Razenroth, acordamos nas ruínas. Descobrimos que o cristal mágico havia sido destruído.</Key>
+<Key Id="qu_outro_1_sc_2">Tudo ficou claro.</Key>
+<Key Id="qu_outro_1_sc_3">O avô estava certo: existiam muitas dimensões nas quais Razenroth habitava.</Key>
+<Key Id="qu_outro_1_sc_4">A única forma de derrotá-lo de vez era matá-lo na dimensão indicada pelo cristal.</Key>
+<Key Id="qu_outro_1_sc_5">Derrotar Razenroth em qualquer outra dimensão apenas fechava aquela dimensão, nada mais.</Key>
+<Key Id="qu_outro_1_sc_6">Agora podemos ter certeza de que esse demônio desapareceu para sempre. Razenroth nunca mais prenderá ninguém.</Key>
+
+<!--Intro-->
+<Key Id="qu_intro_1_sc_1">Já se passaram alguns anos desde a derrota de Razenroth. Quase esqueci tudo isso, mas recentemente recebi uma carta estranha do meu avô.</Key>
+<Key Id="qu_intro_1_sc_2">Ele escreveu que precisava me ver com urgência.</Key>
+<Key Id="qu_intro_1_sc_3">Ele explicou que o motivo do encontro era um cristal que ele trouxe do mundo de Razenroth.</Key>
+<Key Id="qu_intro_1_sc_4">Ao examiná-lo, ele concluiu que era uma bússola que mostrava o caminho para a dimensão na qual Razenroth foi criado.</Key>
+<Key Id="qu_intro_1_sc_5">Decidi ir imediatamente ao encontro do meu avô.</Key>
+<Key Id="qu_intro_1_sc_6">Lá, pude ver com meus próprios olhos que não era um cristal comum.</Key>
+<Key Id="qu_intro_1_sc_7">Ele brilha à luz da lua e muda de intensidade quando girado.</Key>
+<Key Id="qu_intro_1_sc_8">Isso condiz com uma anotação que meu avô encontrou há muitos anos; nela dizia: “apenas a luz do cristal pode levar ao lugar onde Razenroth foi criado.”</Key>
+<Key Id="qu_intro_1_sc_9">Decidimos encontrar esse lugar e seguimos a luz do cristal.</Key>
+<Key Id="qu_intro_1_sc_10">Chegamos às ruínas onde encontramos outro cristal exatamente igual.</Key>
+<Key Id="qu_intro_1_sc_11">Quando nos aproximamos do cristal, ele começou a brilhar intensamente.</Key>
+<Key Id="qu_intro_1_sc_12">Decidimos conectar os dois cristais. Imediatamente depois, uma enorme quantidade de energia foi liberada.</Key>
+<Key Id="qu_intro_1_sc_13">Isso é tudo que me lembro.</Key>
+
+</Languages>

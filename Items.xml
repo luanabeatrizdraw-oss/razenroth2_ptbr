@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<!--Player's starting items-->
+<Key Id="items_bcd_n"></Key>
+<Key Id="items_bcd_o"></Key>
+
+<!--Cooldown weapons-->
+<Key Id="items_bcd_wands_n">Bala mágica</Key>
+<Key Id="items_bcd_wands_o"></Key>
+
+<Key Id="items_bcd_stafczaszki_n">Cajado de caveira</Key>
+<Key Id="items_bcd_stafczaszki_o"></Key>
+
+<Key Id="items_bcd_wandpromieni_n">Cajado de raios</Key>
+<Key Id="items_bcd_wandpromieni_o"></Key>
+
+<Key Id="items_bcd_wandpiorun_n">Lançador de relâmpagos</Key>
+<Key Id="items_bcd_wandpiorun_o"></Key>
+
+<Key Id="items_bcd_sztyl_n">Adaga voadora</Key>
+<Key Id="items_bcd_sztyl_o"></Key>
+
+<Key Id="items_bcd_wandogn_n">Bala ígnea</Key>
+<Key Id="items_bcd_wandogn_o">Alguns projéteis podem explodir.</Key>
+
+<Key Id="items_bcd_wandlod_n">Cajado de gelo</Key>
+<Key Id="items_bcd_wandlod_o">Projéteis congelam inimigos. Inimigos congelados recebem 10% a mais de dano.</Key>
+
+<Key Id="items_bcd_laskpotrglow_n">Lançador de bolas de fogo</Key>
+<Key Id="items_bcd_laskpotrglow_o"></Key>
+
+<Key Id="items_bcd_poch_n">Tocha</Key>
+<Key Id="items_bcd_poch_o">Você pode incendiar a área.</Key>
+
+<Key Id="items_bcd_smoczglo_n">Cabeça de dragão</Key>
+<Key Id="items_bcd_smoczglo_o"></Key>
+
+<Key Id="items_bcd_urna_n">Urna explosiva</Key>
+<Key Id="items_bcd_urna_o"></Key>
+
+<Key Id="items_bcd_bumer_n">Bumerangue</Key>
+<Key Id="items_bcd_bumer_o"></Key>
+
+<Key Id="items_bcd_elwand_n">Lançador elétrico</Key>
+<Key Id="items_bcd_elwand_o"></Key>
+
+<Key Id="items_bcd_lukogn_n">Arco de fogo</Key>
+<Key Id="items_bcd_lukogn_o"></Key>
+
+<Key Id="items_bcd_pajlask_n">Cajado de aranha</Key>
+<Key Id="items_bcd_pajlask_o"></Key>
+
+<Key Id="items_bcd_wandlas_n">Laser</Key>
+<Key Id="items_bcd_wandlas_o"></Key>
+
+<Key Id="items_bcd_wandmlot_n">Martelo mágico</Key>
+<Key Id="items_bcd_wandmlot_o"></Key>
+
+<Key Id="items_bcd_makusz_n">Besta pequena</Key>
+<Key Id="items_bcd_makusz_o"></Key>
+
+<Key Id="items_bcd_przyzmuch_n">Cajado do senhor das moscas</Key>
+<Key Id="items_bcd_przyzmuch_o">Você pode invocar moscas para atacar inimigos.</Key>
+
+<Key Id="items_bcd_urpaja_n">Urna de aranha</Key>
+<Key Id="items_bcd_urpaja_o">Cada urna pode esconder aranhas perigosas.</Key>
+
+<Key Id="items_bcd_wandmoc_n">Rifle mágico</Key>
+<Key Id="items_bcd_wandmoc_o"></Key>
+
+<Key Id="items_bcd_wandtoks_n">Cajado envenenado</Key>
+<Key Id="items_bcd_wandtoks_o"></Key>
+
+<Key Id="items_bcd_glowweza_n">Cajado de serpente</Key>
+<Key Id="items_bcd_glowweza_o"></Key>
+
+<Key Id="items_bcd_odbijpocis_n">Cetro refletor</Key>
+<Key Id="items_bcd_odbijpocis_o"></Key>
+
+<Key Id="items_bcd_piescognia_n">Punho de fogo</Key>
+<Key Id="items_bcd_piescognia_o">Ao atingir um inimigo, pode surgir uma área em chamas no chão.</Key>
+
+<Key Id="items_bcd_trujgrzy_n">Cogumelo venenoso</Key>
+<Key Id="items_bcd_trujgrzy_o">Projéteis podem infectar inimigos. Inimigos infectados deixam uma nuvem de gás venenoso após morrerem.</Key>
+
+<!--Mana weapons-->
+<Key Id="items_bcd_stafs_n">Cajado de energia</Key>
+<Key Id="items_bcd_stafs_o"></Key>
+
+<Key Id="items_bam_enerstaf_n">Raio de energia</Key>
+<Key Id="items_bam_enerstaf_o"></Key>
+
+<Key Id="items_bam_lukpot_n">Arco triplo</Key>
+<Key Id="items_bam_lukpot_o">Projéteis podem explodir.</Key>
+
+<Key Id="items_bam_skalstaf_n">Cetro de pedra</Key>
+<Key Id="items_bam_skalstaf_o"></Key>
+
+<Key Id="items_bam_stafbomb_n">Chuva de balas</Key> <!-- Name of a weapon (staff) that summons a rain of magic bullets. -->
+<Key Id="items_bam_stafbomb_o"></Key>
+
+<Key Id="items_bam_stafnog_n">Cajado do poder divino</Key>
+<Key Id="items_bam_stafnog_o"></Key>
+
+<Key Id="items_bam_brontopor_n">Machado mágico</Key>
+<Key Id="items_bam_brontopor_o"></Key>
+
+<Key Id="items_bam_glosmokfiol_n">Cabeça de dragão ametista</Key>
+<Key Id="items_bam_glosmokfiol_o"></Key>
+
+<Key Id="items_bam_lukogn_n">Arco triplo de fogo</Key>
+<Key Id="items_bam_lukogn_o"></Key>
+
+<Key Id="items_bam_stenpoc_n">Lançador de energia</Key>
+<Key Id="items_bam_stenpoc_o"></Key>
+
+<Key Id="items_bam_stafkul_n">Esfera de projéteis</Key>
+<Key Id="items_bam_stafkul_o"></Key>
+
+<Key Id="items_bam_stafmlo_n">Martelo sagrado</Key>
+<Key Id="items_bam_stafmlo_o"></Key>
+
+<Key Id="items_bam_stafsni_n">Cajado de neve</Key>
+<Key Id="items_bam_stafsni_o">Podem surgir no chão áreas que desaceleram inimigos.</Key>
+
+<Key Id="items_bam_stsparo_n">Besta mágica</Key>
+<Key Id="items_bam_stsparo_o"></Key>
+
+<Key Id="items_bam_staftoks_n">Lançador tóxico</Key>
+<Key Id="items_bam_staftoks_o"></Key>
+
+<Key Id="items_bam_stfalmocy_n">Lançador de energia pura</Key>
+<Key Id="items_bam_stfalmocy_o"></Key>
+
+<Key Id="items_bam_stakulodb_n">Cajado ricocheteante</Key>
+<Key Id="items_bam_stakulodb_o"></Key>
+  
+<Key Id="items_bam_stafduszy_n">Domador de fantasmas</Key>
+<Key Id="items_bam_stafduszy_o"></Key>
+
+<Key Id="items_bam_stfkamienny_n">Lançador de pedras</Key>
+<Key Id="items_bam_stfkamienny_o"></Key>
+
+<Key Id="items_bam_stfskal_n">Cajado de lâminas mágicas</Key>
+<Key Id="items_bam_stfskal_o"></Key>
+
+<Key Id="items_bam_staftorn_n">Semeador de ventos</Key>
+<Key Id="items_bam_staftorn_o"></Key> 
+
+<Key Id="items_bam_bronmieso_n">Cajado de carne</Key>
+<Key Id="items_bam_bronmieso_o">Projéteis disparados podem ganhar vida.</Key>
+
+<Key Id="items_bam_grzybbron_n">Cetro fúngico</Key>
+<Key Id="items_bam_grzybbron_o">Inimigos podem ser infectados. Após a morte de um inimigo infectado, fungos agressivos podem surgir.</Key>
+
+<Key Id="items_bam_kostswiatla_n">Cajado de luz</Key>
+<Key Id="items_bam_kostswiatla_o">Marca inimigos atingidos. Inimigos marcados recebem mais dano.</Key>
+
+<Key Id="items_bam_rekduch_n">Mão espectral</Key>
+<Key Id="items_bam_rekduch_o">Projéteis podem desacelerar inimigos.</Key> 
+
+<Key Id="items_bam_starelektry_n">Esfera elétrica</Key>
+<Key Id="items_bam_starelektry_o"></Key>
+
+<Key Id="items_bam_stafplomieni_n">Cajado de chamas</Key>
+<Key Id="items_bam_stafplomieni_o">Projéteis incendiam o chão.</Key>
+
+<Key Id="items_bam_stafszl_n">Cajado de lodo</Key>
+<Key Id="items_bam_stafszl_o">Pequenos monstros de lodo aparecem no ponto da explosão.</Key> <!--Mud monsters--> 
+
+<!--Mixtures-->
+<Key Id="items_po_maxhp_n">Poção da vida</Key>
+<Key Id="items_po_maxhp_o">Restaura 100% da vida.</Key>
+  
+<Key Id="items_po_boski_n">Poção divina</Key>
+<Key Id="items_po_boski_o">Aumenta significativamente seus atributos.</Key>
+
+<Key Id="items_po_speed_n">Poção de velocidade</Key>
+<Key Id="items_po_speed_o">Aumenta a velocidade de movimento.</Key>
+
+<Key Id="items_po_dmg_n">Poção de dano</Key>
+<Key Id="items_po_dmg_o">Aumenta seu dano.</Key>
+
+<Key Id="items_po_many_n">Poção pequena de mana</Key>
+<Key Id="items_po_many_o">Acelera a regeneração de mana.</Key>
+
+<Key Id="items_po_manyw_n">Poção média de mana</Key>
+<Key Id="items_po_manyw_o">Acelera levemente a regeneração de mana.</Key>
+
+<Key Id="items_po_manys_n">Poção grande de mana</Key>
+<Key Id="items_po_manys_o">Acelera significativamente a regeneração de mana.</Key>
+
+<Key Id="items_po_wamp_n">Poção vampírica</Key>
+<Key Id="items_po_wamp_o">Ao atacar inimigos, você tem chance de regenerar vida.</Key>
+
+<Key Id="items_po_hste_n">Poção de pressa</Key>
+<Key Id="items_po_haste_o">Aumenta ao máximo a velocidade de ataque e reduz o tempo de uso de habilidades.</Key>
+
+<Key Id="items_po_immune_n">Poção de invulnerabilidade</Key>
+<Key Id="items_po_immune_o">Você se torna imune a ataques.</Key>
+
+<Key Id="items_po_lvood_n">Boneco voodoo</Key>
+<Key Id="items_po_lvood_o">Remove 50% da vida de monstros próximos.</Key>
+
+<Key Id="items_po_kdusz_n">Pedra da alma</Key>
+<Key Id="items_po_kdusz_o">Ao matar um inimigo, um fantasma aparece.</Key>
+
+<Key Id="items_po_strach_n">Crânio do medo</Key>
+<Key Id="items_po_strach_o">Monstros próximos fogem em pânico.</Key>
+
+<Key Id="items_po_gruzowisko_n">Montanha de lixo</Key>
+<Key Id="items_po_gruzowisko_o">Você pode destruir paredes por um tempo.</Key>
+
+<Key Id="items_po_talmany_n">Talismã de mana</Key>
+<Key Id="items_po_talmany_o">Ao atacar inimigos, eles podem lançar esferas de mana.</Key>
+
+<Key Id="items_po_talzycia_n">Talismã de vida</Key>
+<Key Id="items_po_talzycia_o">Ao atacar inimigos, eles podem lançar esferas de vida.</Key>
+
+<Key Id="items_po_lodpyl_n">Pó de gelo</Key>
+<Key Id="items_po_lodpyl_o">Desacelera inimigos próximos.</Key>
+
+<Key Id="items_po_przebserc_n">Coração perfurado</Key>
+<Key Id="items_po_przebserc_o">Monstros próximos sofrem grandes quantidades de dano.</Key>
+
+<!--Magic books-->
+<Key Id="items_ks_sogn_n">Livro do fogo</Key>
+<Key Id="items_ks_sogn_o">Um círculo de fogo aparece no local selecionado.</Key> 
+
+<Key Id="items_ks_kseksppoc_n">Livro de projéteis tóxicos</Key>
+<Key Id="items_ks_kseksppoc_o">Você lança projéteis tóxicos que podem deixar nuvens de gás venenoso.</Key>
+
+<Key Id="items_ks_kstarcz_n">Livro do escudo</Key>
+<Key Id="items_ks_kstarcz_o">Você cria um campo de força que destrói projéteis.</Key>
+
+<Key Id="items_ks_skzamie_n">Livro da nevasca</Key>
+<Key Id="items_ks_skzamie_o">Uma nevasca que desacelera inimigos aparece no local selecionado. Projéteis de gelo também caem.</Key>
+
+<Key Id="items_ks_totwir_n">Livro do totem</Key>
+<Key Id="items_ks_totwir_o">Um totem mágico aparece no local selecionado, atraindo e causando dano aos inimigos.</Key> 
+
+<Key Id="items_ks_nieum_n">Livro dos mortos-vivos</Key>
+<Key Id="items_ks_nieum_o">Você invoca um exército de esqueletos.</Key> 
+
+<Key Id="items_ks_bomba_n">Livro da chuva de fogo</Key>
+<Key Id="items_ks_bomba_o">Começa a cair uma chuva de bolas de fogo.</Key>
+
+<Key Id="items_ks_chmurtoks_n">Livro da nuvem tóxica</Key>
+<Key Id="items_ks_chmurtoks_o">Uma nuvem de gás venenoso aparece no local selecionado.</Key>
+
+<Key Id="items_ks_krwi_n">Livro de sangue</Key>
+<Key Id="items_ks_krwi_o">Você invoca esferas de sangue que marcam inimigos. Inimigos marcados recebem mais dano.</Key>
+
+<Key Id="items_ks_magstrz_n">Livro de flechas mágicas</Key>
+<Key Id="items_ks_magstrz_o">Flechas mágicas aparecem e ferem inimigos.</Key>
+
+<Key Id="items_ks_obraz_n">Livro de dano</Key>
+<Key Id="items_ks_obraz_o">Seu dano é temporariamente aumentado.</Key>
+
+<Key Id="items_ks_szcelziem_n">Livro do poço de fogo</Key>
+<Key Id="items_ks_szcelziem_o">Um poço de fogo que lança projéteis flamejantes aparece no local selecionado.</Key>
+
+<Key Id="items_ks_szybko_n">Livro da pressa</Key>
+<Key Id="items_ks_szybko_o">Sua velocidade de movimento aumenta significativamente.</Key>
+
+<Key Id="items_ks_kswiatr_n">Livro do vento</Key>
+<Key Id="items_ks_kswiatr_o">Ao se mover, você lança tornados violentos que atacam inimigos.</Key>
+  
+<Key Id="items_ks_bosksie_n">Livro divino</Key>
+<Key Id="items_ks_bosksie_o">Por um tempo, você se torna imune a ataques.</Key>
+
+<Key Id="items_ks_ksprzepel_n">Livro da maestria mágica</Key>
+<Key Id="items_ks_ksprzepel_o">Seus ataques não consomem mana.</Key>
+
+<Key Id="items_ks_plomien_n">Livro da armadilha de fogo</Key>
+<Key Id="items_ks_plomien_o">O chão começa a queimar na área selecionada.</Key>
+
+<Key Id="items_ks_wyb_n">Livro das explosões</Key>
+<Key Id="items_ks_wyb_o">Você invoca explosões sob os pés dos inimigos.</Key>
+
+<!--Pets-->
+<Key Id="items_pet_robak_n">Verme</Key>
+<Key Id="items_pet_robak_o">Anda e causa dano aos seus inimigos.</Key>
+
+<Key Id="items_pet_wybuchacz_n">Detonador</Key>
+<Key Id="items_pet_wybuchacz_o">Pode causar uma explosão no local da morte do inimigo.</Key>
+
+<Key Id="items_pet_toksyczniak_n">Lodo tóxico</Key> <!--Slime-->
+<Key Id="items_pet_toksyczniak_o">Pode criar uma área tóxica no local da morte do inimigo.</Key>
+
+<Key Id="items_pet_bombardier_n">Bombardeiro</Key>
+<Key Id="items_pet_bombardier_o">Ao atacar inimigos, pode lançar uma mina explosiva.</Key>
+
+<Key Id="items_pet_gowniak_n">Cocô</Key>
+<Key Id="items_pet_gowniak_o">Ao atacar inimigos, pode deixar fezes explosivas.</Key>
+
+<Key Id="items_pet_snajper_n">Atirador de elite</Key>
+<Key Id="items_pet_snajper_o">Um soldado treinado que atira nos inimigos com seu rifle confiável.</Key>
+
+<Key Id="items_pet_wir_n">Tornado</Key>
+<Key Id="items_pet_wir_o">Ao atacar inimigos, pode invocar um pequeno redemoinho.</Key>
+
+<Key Id="items_pet_amunicjoner_n">Ajudante azul</Key>
+<Key Id="items_pet_amunicjoner_o">Pode criar uma esfera de mana após você matar um inimigo.</Key>
+
+<Key Id="items_pet_czaszka_n">Caveira</Key>
+<Key Id="items_pet_czaszka_o">Pode invocar um esqueleto ajudante após você matar um inimigo.</Key>
+
+<Key Id="items_pet_ognik_n">Fogo-fátuo</Key>
+<Key Id="items_pet_ognik_o">Marca inimigos. Se você atacar um inimigo marcado, uma bola de fogo pode cair do céu.</Key>
+
+<Key Id="items_pet_kryszmocy_n">Cristal de poder</Key>
+<Key Id="items_pet_kryszmocy_o">Aumenta seu dano.</Key>
+
+<Key Id="items_pet_szkielmiecz_n">Guerreiro esqueleto</Key>
+<Key Id="items_pet_szkielmiecz_o">Ataca inimigos com sua espada.</Key>
+
+<Key Id="items_pet_pancernik_n">Escudo</Key>
+<Key Id="items_pet_pancernik_o">Ao atacar inimigos, pode criar um campo de força para protegê-lo contra projéteis.</Key>
+
+<Key Id="items_pet_gobinz_n">Engenheiro goblin</Key>
+<Key Id="items_pet_gobinz_o">Pode criar uma arma após você matar um inimigo.</Key>
+
+<Key Id="items_pet_zjawa_n">Espírito</Key>
+<Key Id="items_pet_zjawa_o">Pode enviar espíritos malignos após você matar um inimigo.</Key>
+
+<!--Power ups-->
+<Key Id="items_pu_bzm_n">Mana infinita</Key>
+<Key Id="items_pu_bzm_o">Você não consome mana por 20 segundos.</Key>
+
+<Key Id="items_pu_cds1_n">Foco</Key>
+<Key Id="items_pu_cds1_o">Reduz ao máximo o tempo de recarga da sua habilidade principal.</Key> <!-- main skill cooldown -->
+
+<Key Id="items_pu_cds2_n">Dádiva</Key>
+<Key Id="items_pu_cds2_o">Reduz ao máximo o tempo de recarga da sua habilidade especial.</Key> <!-- special skill cooldown -->
+
+<Key Id="items_pu_immun_n">Proteção</Key>
+<Key Id="items_pu_immun_o">Você se torna imune a ataques.</Key>
+
+<Key Id="items_pu_kryt_n">Precisão</Key>
+<Key Id="items_pu_kryt_o">Aumenta significativamente sua chance de causar golpes críticos.</Key>
+
+<Key Id="items_pu_ksieg_n">Estudioso</Key>
+<Key Id="items_pu_ksieg_o">Reduz ao máximo o tempo de recarga de livros.</Key>
+
+<Key Id="items_pu_br1_n">Arma rápida</Key>
+<Key Id="items_pu_br1_o">Reduz ao máximo o tempo de recarga da sua arma básica.</Key> <!-- cooldown -->
+
+<Key Id="items_pu_br2_n">Arma de mana rápida</Key>
+<Key Id="items_pu_br2_o">Reduz ao máximo o tempo de recarga da sua arma de mana.</Key> <!-- cooldown -->
+
+<!--Armor-->
+<Key Id="items_pan_n">Armadura</Key>
+<Key Id="items_pan_o"></Key>
+
+<!--Life-->
+<Key Id="items_zycie_n">Esfera de vida</Key>
+<Key Id="items_zycie_o"></Key>
+
+<!--Keys-->
+<Key Id="items_klucz_n">Chave</Key>
+<Key Id="items_klucz_o"></Key>
+
+<!--Mana-->
+<Key Id="items_amunicja_n">Esfera de mana</Key>
+<Key Id="items_amunicja_o"></Key>
+
+<!--Gold-->
+<Key Id="items_zloto_n">Ouro</Key>
+<Key Id="items_zloto_o"></Key>
+
+<!--Crystals-->
+<Key Id="items_krysztaly_n">Cristais sombrios</Key>
+<Key Id="items_krysztaly_o"></Key>
+
+<!--Passive items-->
+<Key Id="items_pas_kolec_n">Espinho</Key>
+<Key Id="items_pas_kolec_o"></Key>
+
+<Key Id="items_pas_uszmiecz_n">Espada danificada</Key>
+<Key Id="items_pas_uszmiecz_o"></Key>
+
+<Key Id="items_pas_galkoczna_n">Globo ocular</Key>
+<Key Id="items_pas_galkoczna_o"></Key>
+
+<Key Id="items_pas_fztdym_n">Frasco com fumaça tóxica</Key>
+<Key Id="items_pas_fztdym_o"></Key>
+
+<Key Id="items_pas_fzproch_n">Frasco com pó</Key>
+<Key Id="items_pas_fzproch_o"></Key>
+
+<Key Id="items_pas_kawserc_n">Pedaço de coração</Key>
+<Key Id="items_pas_kawserc_o"></Key>
+
+<Key Id="items_pas_kawblach_n">Pedaço de metal</Key>
+<Key Id="items_pas_kawblach_o"></Key>
+
+<Key Id="items_pas_mozg_n">Cérebro</Key>
+<Key Id="items_pas_mozg_o"></Key>
+
+<Key Id="items_pas_ciern_n">Espinho</Key>
+<Key Id="items_pas_ciern_o"></Key>
+
+<Key Id="items_pas_gwozdz_n">Prego</Key>
+<Key Id="items_pas_gwozdz_o"></Key>
+
+<Key Id="items_pas_krokrw_n">Gota de sangue</Key>
+<Key Id="items_pas_krokrw_o"></Key>
+
+<Key Id="items_pas_skora_n">Couro</Key>
+<Key Id="items_pas_kor_o"></Key>
+
+<Key Id="items_pas_kosc_n">Osso</Key>
+<Key Id="items_pas_kosc_o"></Key>
+
+<Key Id="items_pas_galar_n">Gelatina</Key>
+<Key Id="items_pas_galar_o"></Key>
+
+<Key Id="items_pas_kawmete_n">Pedaço de meteorito</Key>
+<Key Id="items_pas_kawmete_o"></Key>
+
+<Key Id="items_pas_zlamgal_n">Galho quebrado</Key>
+<Key Id="items_pas_zlamgal_o"></Key>
+
+<Key Id="items_pas_jajko_n">Ovo</Key>
+<Key Id="items_pas_jajko_o"></Key>
+
+<Key Id="items_pas_lalka_n">Boneca</Key>
+<Key Id="items_pas_lalka_o"></Key>
+
+<Key Id="items_pas_urna_n">Urna</Key>
+<Key Id="items_pas_urna_o"></Key>
+
+<Key Id="items_pas_odch_n">Fezes</Key>
+<Key Id="items_pas_odch_o"></Key>
+
+<Key Id="items_pas_kryszt_n">Cristal</Key>
+<Key Id="items_pas_kryszt_o"></Key>
+
+<Key Id="items_pas_grzyb_n">Cogumelo</Key>
+<Key Id="items_pas_grzyb_o"></Key>
+
+<Key Id="items_pas_porost_n">Líquen</Key>
+<Key Id="items_pas_porost_o"></Key>
+
+<!--Hats-->
+<Key Id="items_czapka_cmaga_n">Chapéu de mago</Key>
+<Key Id="items_czapka_cmaga_o"></Key> 
+
+<Key Id="items_czapka_diabla_n">Elmo do diabo</Key>
+<Key Id="items_czapka_diabla_o"></Key>
+
+<Key Id="items_czapka_piorunow_n">Coroa de relâmpagos</Key>
+<Key Id="items_czapka_piorunow_o"></Key>
+
+<Key Id="items_czapka_drwhelm_n">Capacete de madeira</Key>
+<Key Id="items_czapka_drwhelm_o"></Key>
+
+<Key Id="items_czapka_helszcz_n">Chapéu da sorte</Key>
+<Key Id="items_czapka_helszcz_o"></Key>
+
+<Key Id="items_czapka_korlodu_n">Coroa de gelo</Key>
+<Key Id="items_czapka_korlodu_o"></Key>
+
+<Key Id="items_czapka_methelm_n">Elmo de aço</Key>
+<Key Id="items_czapka_methelm_o"></Key>
+
+<Key Id="items_czapka_mroczkor_n">Coroa sombria</Key>
+<Key Id="items_czapka_mroczkor_o"></Key>
+
+<Key Id="items_czapka_okkonc_n">Óculos de precisão</Key>
+<Key Id="items_czapka_okkonc_o"></Key>
+
+<Key Id="items_czapka_zmijczp_n">Chapéu de serpente</Key>
+<Key Id="items_czapka_zmijczp_o"></Key> 
+
+<Key Id="items_czapka_czarnoks_n">Chapéu de feiticeiro</Key>
+<Key Id="items_czapka_czarnoks_o"></Key>
+
+<Key Id="items_czapka_druid_n">Chapéu de druida</Key>
+<Key Id="items_czapka_druid_o"></Key>
+
+<Key Id="items_czapka_smoczlusek_n">Elmo de escamas de dragão</Key>
+<Key Id="items_czapka_smoczlusek_o"></Key>
+
+
+<!--Capes-->
+<Key Id="items_peleryna_pemaga_n">Capa de mago</Key>
+<Key Id="items_peleryna_pemaga_o"></Key>
+
+<Key Id="items_peleryna_demo_n">Capa demoníaca</Key>
+<Key Id="items_peleryna_demo_o"></Key>
+
+<Key Id="items_peleryna_gargu_n">Casaco rasgado</Key>
+<Key Id="items_peleryna_gargu_o"></Key>
+
+<Key Id="items_peleryna_niedz_n">Capa de caçador de ursos</Key>
+<Key Id="items_peleryna_niedz_o"></Key>
+
+<Key Id="items_peleryna_nieb_n">Túnica sombria</Key>
+<Key Id="items_peleryna_nieb_o"></Key>
+
+<Key Id="items_peleryna_drui_n">Casaco de druida</Key>
+<Key Id="items_peleryna_drui_o"></Key>
+
+<Key Id="items_peleryna_kolcz_n">Capa de espinhos</Key>
+<Key Id="items_peleryna_kolcz_o"></Key>
+
+<Key Id="items_peleryna_krwa_n">Capa sangrenta</Key>
+<Key Id="items_peleryna_krwa_o"></Key>
+
+<Key Id="items_peleryna_mumi_n">Capa de múmia</Key>
+<Key Id="items_peleryna_mumi_o"></Key>
+
+<Key Id="items_peleryna_swiatl_n">Túnica da luz</Key>
+<Key Id="items_peleryna_swiatl_o"></Key>
+
+<Key Id="items_peleryna_szmaci_n">Manto de trapos</Key>
+<Key Id="items_peleryna_szmaci_o"></Key>
+
+<Key Id="items_peleryna_barba_n">Capa bárbara</Key> 
+<Key Id="items_peleryna_barba_o"></Key>
+
+<Key Id="items_peleryna_lowcy_n">Túnica de caçador</Key>
+<Key Id="items_peleryna_lowcy_o"></Key>
+
+<Key Id="items_peleryna_witalnosci_n">Casaco de vitalidade</Key>
+<Key Id="items_peleryna_witalnosci_o"></Key>
+
+
+<!--Armors-->
+<Key Id="items_zbroja_zbmaga_n">Túnica de mago</Key>
+<Key Id="items_zbroja_zbmaga_o"></Key>
+
+<Key Id="items_zbroja_drewniana_n">Armadura de madeira</Key>
+<Key Id="items_zbroja_drewniana_o"></Key>
+
+<Key Id="items_zbroja_grzybowa_n">Armadura mofada</Key>
+<Key Id="items_zbroja_grzybowa_o"></Key>
+
+<Key Id="items_zbroja_kolczuga_n">Cota de malha de aço</Key>
+<Key Id="items_zbroja_kolczuga_o"></Key>
+
+<Key Id="items_zbroja_krwawa_n">Armadura sangrenta</Key>
+<Key Id="items_zbroja_krwawa_o"></Key>
+
+<Key Id="items_zbroja_krysztalowa_n">Armadura de cristal</Key>
+<Key Id="items_zbroja_krysztalowa_o"></Key>
+
+<Key Id="items_zbroja_skorzana_n">Couraça de couro</Key>
+<Key Id="items_zbroja_skorzana_o"></Key>
+
+<Key Id="items_zbroja_szmaciana_n">Túnica de trapos</Key>
+<Key Id="items_zbroja_szmaciana_o"></Key>
+
+<Key Id="items_zbroja_plytowa_n">Armadura de placas</Key>
+<Key Id="items_zbroja_plytowa_o"></Key>
+
+<Key Id="items_zbroja_rozlin_n">Armadura da floresta</Key>
+<Key Id="items_zbroja_rozlin_o"></Key>
+
+<Key Id="items_zbroja_drewwzo_n">Armadura de madeira reforçada</Key>
+<Key Id="items_zbroja_drewwzo_o"></Key>
+
+<Key Id="items_zbroja_mroczstal_n">Armadura de aço sombrio</Key>
+<Key Id="items_zbroja_mroczstal_o"></Key>
+
+<Key Id="items_zbroja_smoczlus_n">Armadura de dragão</Key>
+<Key Id="items_zbroja_smoczlus_o"></Key>
+
+<!--Trousers-->
+<Key Id="items_spodnie_spmaga_n">Calças de mago</Key>
+<Key Id="items_spodnie_spmaga_o"></Key> 
+
+<Key Id="items_spodnie_brud_n">Calças sujas</Key>
+<Key Id="items_spodnie_brud_o"></Key>
+
+<Key Id="items_spodnie_krwa_n">Calças sangrentas</Key>
+<Key Id="items_spodnie_krwa_o"></Key>
+
+<Key Id="items_spodnie_kopacz_n">Calças de escavador</Key>
+<Key Id="items_spodnie_kopacz_o"></Key>
+
+<Key Id="items_spodnie_bandy_n">Calças de bandido</Key>
+<Key Id="items_spodnie_bandy_o"></Key>
+
+<Key Id="items_spodnie_druid_n">Calças de druida</Key>
+<Key Id="items_spodnie_druid_o"></Key>
+
+<Key Id="items_spodnie_mumi_n">Calças de múmia</Key>
+<Key Id="items_spodnie_mumi_o"></Key>
+
+<Key Id="items_spodnie_najem_n">Calças de mercenário</Key>
+<Key Id="items_spodnie_najem_o"></Key>
+
+<Key Id="items_spodnie_pajecz_n">Calças de aranha</Key>
+<Key Id="items_spodnie_pajecz_o"></Key>
+
+<Key Id="items_spodnie_tyt_n">Calças de titânio</Key>
+<Key Id="items_spodnie_tyt_o"></Key>
+
+<Key Id="items_spodnie_mroczspod_n">Calças sombrias</Key>
+<Key Id="items_spodnie_mroczspod_o"></Key>
+
+<Key Id="items_spodnie_barba_n">Calças bárbaras</Key>
+<Key Id="items_spodnie_barba_o"></Key>
+
+<Key Id="items_spodnie_mocy_n">Calças de assassino</Key>
+<Key Id="items_spodnie_mocy_o"></Key>
+
+
+<!--Belts-->
+<Key Id="items_pas_pmaga_n">Cinto de mago</Key>
+<Key Id="items_pas_pmaga_o"></Key>
+
+<Key Id="items_pas_czerwony_n">Cinto sangrento</Key>
+<Key Id="items_pas_czerwony_o"></Key>
+
+<Key Id="items_pas_czarny_n">Faixa preta</Key>
+<Key Id="items_pas_czarny_o"></Key>
+
+<Key Id="items_pas_kosci_n">Faixa de ossos</Key>
+<Key Id="items_pas_kosci_o"></Key>
+
+<Key Id="items_pas_lisci_n">Cinto da floresta</Key>
+<Key Id="items_pas_lisci_o"></Key>
+
+<Key Id="items_pas_skorz_n">Cinto de couro</Key>
+<Key Id="items_pas_skorz_o"></Key>
+
+<Key Id="items_pas_weza_n">Cinto de serpente</Key>
+<Key Id="items_pas_weza_o"></Key>
+
+<Key Id="items_pas_narzedziowy_n">Cinto de trabalhador</Key>
+<Key Id="items_pas_narzedziowy_o"></Key>
+
+<Key Id="items_pas_pozlacany_n">Faixa dourada</Key>
+<Key Id="items_pas_pozlacany_o"></Key>
+
+<Key Id="items_pas_sznur_n">Corda</Key> <!-- just a belt made of rope-->
+
+<Key Id="items_pas_sznur_o"></Key> 
+
+<Key Id="items_pas_kamie_n">Cinto de pedra</Key>
+<Key Id="items_pas_kamie_o"></Key>
+
+<Key Id="items_pas_krwaw_n">Cinto sangrento</Key>
+<Key Id="items_pas_krwaw_o"></Key>
+
+<Key Id="items_pas_mocy_n">Cinto de poder</Key>
+<Key Id="items_pas_mocy_o"></Key>
+
+
+<!--Spaulders-->
+<Key Id="items_naramy_nmaga_n">Espaldeiras de mago</Key>
+<Key Id="items_naramy_nmaga_o"></Key>
+
+<Key Id="items_naramy_kam_n">Protetores de ombro de pedra</Key>
+<Key Id="items_naramy_kam_o"></Key>
+
+<Key Id="items_naramy_kolcz_n">Espaldeiras com espinhos</Key>
+<Key Id="items_naramy_kolcz_o"></Key>
+
+<Key Id="items_naramy_kryszt_n">Espaldeiras de cristal</Key>
+<Key Id="items_naramy_kryszt_o"></Key>
+
+<Key Id="items_naramy_druid_n">Protetores de ombro de druida</Key>
+<Key Id="items_naramy_druid_o"></Key>
+
+<Key Id="items_naramy_krwi_n">Espaldeiras sangrentas</Key>
+<Key Id="items_naramy_krwi_o"></Key>
+
+<Key Id="items_naramy_piorun_n">Espaldeiras de relâmpago</Key>
+<Key Id="items_naramy_piorun_o"></Key>
+
+<Key Id="items_naramy_stalow_n">Espaldeiras de aço</Key>
+<Key Id="items_naramy_stalow_o"></Key>
+
+<Key Id="items_naramy_swiatla_n">Espaldeiras da luz</Key>
+<Key Id="items_naramy_swiatla_o"></Key>
+
+<Key Id="items_naramy_zagrzyb_n">Espaldeiras mofadas</Key>
+<Key Id="items_naramy_zagrzyb_o"></Key>
+
+<Key Id="items_naramy_koscnaram_n">Espaldeiras de osso</Key>
+<Key Id="items_naramy_koscnaram_o"></Key>
+
+<Key Id="items_naramy_cienia_n">Espaldeiras das sombras</Key>
+<Key Id="items_naramy_cienia_o"></Key>
+
+<Key Id="items_naramy_wzmoc_n">Espaldeiras de placas</Key>
+<Key Id="items_naramy_wzmoc_o"></Key>
+<!--Amulets-->
+<Key Id="items_amulet_ammaga_n">Amuleto de mago</Key>
+<Key Id="items_amulet_ammaga_o"></Key>
+
+<Key Id="items_amulet_kosci_n">Colar de ossos</Key>
+<Key Id="items_amulet_kosci_o"></Key>
+
+<Key Id="items_amulet_zycia_n">Amuleto da vida</Key>
+<Key Id="items_amulet_zycia_o"></Key>
+
+<Key Id="items_amulet_wisior_n">Colar de topázio</Key>
+<Key Id="items_amulet_wisior_o"></Key>
+
+<Key Id="items_amulet_opska_n">Colar espinhoso</Key>
+<Key Id="items_amulet_opska_o"></Key>
+
+<Key Id="items_amulet_czaszka_n">Amuleto de caveira</Key>
+<Key Id="items_amulet_czaszka_o"></Key>
+
+<Key Id="items_amulet_robaczy_n">Amuleto de vermes</Key>
+<Key Id="items_amulet_robaczy_o"></Key>
+
+<Key Id="items_amulet_talizman_n">Talismã de invulnerabilidade</Key>
+<Key Id="items_amulet_talizman_o"></Key>
+
+<Key Id="items_amulet_wezowy_n">Colar de serpente</Key>
+<Key Id="items_amulet_wezowy_o"></Key>
+
+<Key Id="items_amulet_zlotynasz_n">Colar de ouro</Key>
+<Key Id="items_amulet_zlotynasz_o"></Key>
+
+<Key Id="items_amulet_kawmeteor_n">Pingente de meteorito</Key>
+<Key Id="items_amulet_kawmeteor_o"></Key>
+
+<Key Id="items_amulet_kryszswia_n">Cristal da luz</Key>
+<Key Id="items_amulet_kryszswia_o"></Key>
+
+<Key Id="items_amulet_szmaramul_n">Amuleto de esmeralda</Key>
+<Key Id="items_amulet_szmaramul_o"></Key>
+
+<Key Id="items_amulet_zabdem_n">Dente de demônio</Key>
+<Key Id="items_amulet_zabdem_o"></Key>
+
+
+<!--Boots-->
+<Key Id="items_buty_bognisty_n">Botas de fogo</Key>
+<Key Id="items_buty_bognisty_o"></Key>
+
+<Key Id="items_buty_duid_n">Botas de druida</Key>
+<Key Id="items_buty_duid_o"></Key>
+
+<Key Id="items_buty_krwawe_n">Botas sangrentas</Key>
+<Key Id="items_buty_krwawe_o"></Key>
+
+<Key Id="items_buty_lowcy_n">Sapatos de caçador</Key>
+<Key Id="items_buty_lowcy_o"></Key>
+
+<Key Id="items_buty_lusko_n">Botas de placas</Key>
+<Key Id="items_buty_lusko_o"></Key>
+
+<Key Id="items_buty_mumi_n">Meias de múmia</Key>
+<Key Id="items_buty_mumi_o"></Key>
+
+<Key Id="items_buty_skorz_n">Botas de couro</Key>
+<Key Id="items_buty_skorz_o"></Key>
+
+<Key Id="items_buty_stal_n">Botas de aço</Key>
+<Key Id="items_buty_stal_o"></Key>
+
+<Key Id="items_buty_sandal_n">Sandálias</Key>
+<Key Id="items_buty_sandal_o"></Key>
+
+<Key Id="items_buty_tramp_n">Tênis</Key>
+<Key Id="items_buty_tramp_o"></Key>
+
+<Key Id="items_buty_jaszskor_n">Sapatos de pele de lagarto</Key>
+<Key Id="items_buty_jaszskor_o"></Key>
+
+<Key Id="items_buty_zabuj_n">Sapatos de mensageiro</Key>
+<Key Id="items_buty_zabuj_o"></Key>
+
+<Key Id="items_buty_ciebut_n">Botas pesadas</Key>
+<Key Id="items_buty_ciebut_o"></Key>
+
+
+<!--Special items-->
+<Key Id="items_sp_kapldmg_n">Santuário de dano</Key>
+<Key Id="items_sp_kapldmg_o"></Key>
+
+<Key Id="items_sp_kdef_n">Santuário de defesa</Key>
+<Key Id="items_sp_kdef_o"></Key>
+
+<Key Id="items_sp_kzycia_n">Santuário de vida</Key>
+<Key Id="items_sp_kzycia_o">Restaura 20 pontos de vida a cada 5 segundos.</Key>
+
+<Key Id="items_sp_kpmany_n">Santuário de mana</Key>
+<Key Id="items_sp_kpmany_o"></Key>
+
+<Key Id="items_sp_kpspeed_n">Santuário de velocidade</Key>
+<Key Id="items_sp_kpspeed_o"></Key>
+
+<Key Id="items_sp_jablko_n">Maçã</Key>
+<Key Id="items_sp_jablko_o"></Key>
+
+<Key Id="items_sp_zlotpuch_n">Cálice do vencedor</Key>
+<Key Id="items_sp_zlotpuch_o"></Key>
+
+<Key Id="items_sp_ostra_skala_n">Pedra afiada</Key>
+<Key Id="items_sp_ostra_skala_o"></Key>
+
+<Key Id="items_sp_zoladz_n">Bolota</Key>
+<Key Id="items_sp_zoladz_o"></Key>
+
+<Key Id="items_sp_malaurna_n">Caveira de necromante</Key>
+<Key Id="items_sp_malaurna_o">Ao matar um inimigo, esqueletos podem aparecer.</Key>
+
+<Key Id="items_sp_mroczny_potion_n">Poção sombria</Key>
+<Key Id="items_sp_mroczny_potion_o">Um portal para o abismo se abre após beber esta poção.</Key>
+<Key Id="items_sp_mroczny_potion_w">Este item não pode ser usado em níveis de chefe.</Key>
+
+<Key Id="items_sp_bialkryszt_n">Cristal branco</Key>
+<Key Id="items_sp_bialkryszt_o"></Key>
+
+<Key Id="items_sp_czarkryszt_n">Cristal preto</Key>
+<Key Id="items_sp_czarkryszt_o"></Key>
+
+<Key Id="items_sp_czerwkrysz_n">Cristal vermelho</Key>
+<Key Id="items_sp_czerwkrysz_o"></Key>
+
+<Key Id="items_sp_fiolkryszt_n">Cristal roxo</Key>
+<Key Id="items_sp_fiolkryszt_o"></Key>
+
+<Key Id="items_sp_nogdemona_n">Perna de demônio</Key>
+<Key Id="items_sp_nogdemona_o"></Key>
+
+<Key Id="items_sp_petduchbijacy_n">Pequeno fantasma</Key>
+<Key Id="items_sp_petduchbijacy_o">Voa e ataca inimigos.</Key>
+
+<Key Id="items_sp_mroczksiega_n">Livro sombrio</Key>
+<Key Id="items_sp_mroczksiega_o">Invoca fantasmas do submundo para ajudá-lo na batalha.</Key>
+  
+ 
+</Languages>

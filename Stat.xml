@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<!--Spells-->
+<Key Id="sta_spel_czarls_one_nazwa">Bombardeio</Key>
+<Key Id="sta_spel_czarls_one_opis">Projéteis caindo do céu na área selecionada.</Key>	
+
+<Key Id="sta_spel_czarls_two_nazwa">Projétil gigante</Key>
+<Key Id="sta_spel_czarls_otwo_opis">Um enorme projétil de energia que lança projéteis menores.</Key>	
+	
+<Key Id="sta_spel_czarls_pasyw_nazwa">Ataque adicional</Key>
+<Key Id="sta_spel_czarls_pasyw_opis">Ao acertar um inimigo, você tem chance de disparar um projétil adicional.</Key>		
+	
+<Key Id="sta_spel_dziadek_one_nazwa">Nevasca</Key>
+<Key Id="sta_spel_dziadek_one_opis">Uma tempestade de neve aparece e desacelera seus inimigos.</Key>	
+
+<Key Id="sta_spel_dziadek_two_nazwa">Blocos de gelo</Key>
+<Key Id="sta_spel_dziadek_otwo_opis">Blocos de gelo caem sobre inimigos próximos.</Key>	
+	
+<Key Id="sta_spel_dziadek_pasyw_nazwa">Controle de projéteis</Key>
+<Key Id="sta_spel_dziadek_pasyw_opis">Você pode desacelerar projéteis inimigos. Alguns dos seus projéteis também podem atravessar inimigos.</Key>
+
+<Key Id="sta_spel_druid_one_nazwa">Detonador de cogumelos</Key>
+<Key Id="sta_spel_druid_one_opis">Você detona todos os cogumelos ao redor.</Key>	
+
+<Key Id="sta_spel_druid_two_nazwa">Praga de cogumelos</Key>
+<Key Id="sta_spel_druid_otwo_opis">Uma horda de cogumelos mutantes aparece para atacar inimigos e espalhar pequenos cogumelos explosivos.</Key>	
+	
+<Key Id="sta_spel_druid_pasyw_nazwa">A praga</Key>
+<Key Id="sta_spel_druid_pasyw_opis">Inimigos infectados por cogumelos recebem mais dano.</Key>
+	
+<Key Id="sta_spel_nieumarlak_one_nazwa">Nuvem tóxica</Key>
+<Key Id="sta_spel_nieumarlak_one_opis">Uma nuvem de toxinas aparece para causar dano aos inimigos.</Key>	
+
+<Key Id="sta_spel_nieumarlak_two_nazwa">Doença fedorenta</Key>
+<Key Id="sta_spel_nieumarlak_otwo_opis">Você gera contaminantes tóxicos.</Key>	
+	
+<Key Id="sta_spel_nieumarlak_pasyw_nazwa">Túmulo de pedra</Key>
+<Key Id="sta_spel_nieumarlak_pasyw_opis">Ao atacar inimigos, você tem chance de acertá-los com uma lápide pesada.</Key>
+
+<Key Id="sta_spel_priest_one_nazwa">Estátua de poder</Key>
+<Key Id="sta_spel_priest_one_opis">Atrai inimigos e causa dano.</Key>	
+
+<Key Id="sta_spel_priest_two_nazwa">Punho da conversão</Key>
+<Key Id="sta_spel_priest_otwo_opis">Um punho poderoso cai do céu para causar dano aos inimigos.</Key>	
+	
+<Key Id="sta_spel_priest_pasyw_nazwa">Maldição</Key>
+<Key Id="sta_spel_priest_pasyw_opis">Seus ataques podem amaldiçoar inimigos. Inimigos amaldiçoados recebem mais dano.</Key>
+
+<Key Id="sta_spel_nekromanta_one_nazwa">Invocar esqueletos</Key>
+<Key Id="sta_spel_nekromanta_one_opis">Você invoca esqueletos para atacar seus inimigos.</Key>	
+
+<Key Id="sta_spel_nekromanta_two_nazwa">Golem</Key>
+<Key Id="sta_spel_nekromanta_otwo_opis">Você invoca um poderoso golem para lutar ao seu lado.</Key>	
+	
+<Key Id="sta_spel_nekromanta_pasyw_nazwa">Vermes</Key>
+<Key Id="sta_spel_nekromanta_pasyw_opis">Vermes rastejantes saem dos inimigos mortos.</Key>
+
+<!--Upgrades available in crystal shop-->
+<Key Id="sta_campa_piedestal_n">Pedestal de item</Key>
+<Key Id="sta_campa_piedestal_o">Um item aleatório aparece nele no início do jogo.</Key>	
+
+<Key Id="sta_campa_skey_n">Mesa do mestre das chaves</Key>
+<Key Id="sta_campa_skey_o">Permite comprar chaves.</Key>
+
+<Key Id="sta_campa_spot_n">Mesa de alquimia</Key>
+<Key Id="sta_campa_spot_o">Você pode comprar poções.</Key>
+
+<Key Id="sta_campa_swym_n">Casa de câmbio</Key>
+<Key Id="sta_campa_swym_o">Aqui você pode trocar moedas.</Key>
+
+<Key Id="sta_campa_slecz_n">Poço de cura</Key>
+<Key Id="sta_campa_slecz_o">Em cada nível, o poço pode recuperar 50% da vida.</Key>
+
+<Key Id="sta_campa_kapliczka_n">Santuário</Key>
+<Key Id="sta_campa_kapliczka_o">Ao matar um inimigo, você tem chance de receber um bônus temporário de atributos.</Key>
+
+<Key Id="sta_campa_maszlos_n">Máquina de apostas</Key>
+<Key Id="sta_campa_maszlos_o">Você recebe um item aleatório por moedas de ouro.</Key>
+
+<Key Id="sta_campa_maszhazard_n">Máquina de apostas</Key> <!--The same text as above, but it's deliberate action-->
+<Key Id="sta_campa_maszhazard_o">Você recebe um item aleatório por moedas de ouro.</Key>
+
+<Key Id="sta_campa_kulzyc_n">Esfera de sangue</Key>
+<Key Id="sta_campa_kulzyc_o">Adiciona 10 pontos de vida.</Key>
+
+<Key Id="sta_campa_totzycia_n">Totem de energia vital</Key>
+<Key Id="sta_campa_totzycia_o">Adiciona 15 pontos de vida.</Key>
+
+<Key Id="sta_campa_drzzycia_n">Árvore da vida</Key>
+<Key Id="sta_campa_drzzycia_o">Adiciona 25 pontos de vida.</Key>
+
+<Key Id="sta_campa_totmany_n">Totem de energia</Key>
+<Key Id="sta_campa_totmany_o">Adiciona 10 pontos de mana.</Key>
+
+<Key Id="sta_campa_ksiegmany_n">Livro de mana</Key>
+<Key Id="sta_campa_ksiegmany_o">Adiciona 15 pontos de mana.</Key>
+
+<Key Id="sta_campa_kryszmany_n">Cristal de poder</Key>
+<Key Id="sta_campa_kryszmany_o">Adiciona 25 pontos de mana.</Key>
+
+<Key Id="sta_campa_artarcza_n">Escudo</Key>
+<Key Id="sta_campa_artarcza_o">Adiciona 10 pontos de armadura.</Key>
+
+<Key Id="sta_campa_stojzbroj_n">Armadura de aço</Key>
+<Key Id="sta_campa_stojzbroj_o">Adiciona 20 pontos de armadura.</Key>
+
+<Key Id="sta_campa_diamzbroja_n">Armadura de diamante</Key>
+<Key Id="sta_campa_diamzbroja_o">Adiciona 30 pontos de armadura.</Key>
+
+<Key Id="sta_campa_krymrozu_n">Cristal de gelo</Key>
+<Key Id="sta_campa_krymrozu_o">Dispara projéteis de gelo que podem deixar manchas que desaceleram inimigos.</Key>
+
+<Key Id="sta_campa_kryognia_n">Cristal de fogo</Key>
+<Key Id="sta_campa_kryognia_o">Dispara projéteis de fogo que explodem e deixam manchas de fogo.</Key>
+
+<Key Id="sta_campa_krywiatru_n">Cristal do vento</Key>
+<Key Id="sta_campa_krywiatru_o">Invoca pequenos tornados para dizimar inimigos.</Key>
+
+<Key Id="sta_campa_kryszziemi_n">Cristal da terra</Key>
+<Key Id="sta_campa_kryszziemi_o">Arma de combate que dispara grandes rochas.</Key>
+
+
+</Languages>

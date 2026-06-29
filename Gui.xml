@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+<!--Character death window-->
+<Key Id="g_de_win_npdie">Você morreu</Key>
+<Key Id="g_de_win_points">Pontos</Key> <!-- Total amount of collected points -->
+<Key Id="g_de_win_hitedby">Você sofreu ferimentos fatais:</Key>
+
+<!--Buttons-->
+<Key Id="patch_1_but_restart_game">Jogar novamente</Key>
+
+<!--Options window-->
+<Key Id="patch_1_opt_skip_intro">Pular introdução</Key>
+
+<!--tooltips-->
+<Key Id="patch_1_tol_naj_n">Mercenários</Key>
+<Key Id="patch_1_tol_naj_o">Número de mercenários:</Key>
+
+<!--New game requirements-->
+<Key Id="g_ng_wym_wlasci_1">Requisitos:</Key>
+
+<!--Game modes-->
+<Key Id="g_trybrozg_normalny_n">Normal</Key>
+<Key Id="g_trybrozg_normalny_o">Nível básico de dificuldade.</Key>
+
+<Key Id="g_trybrozg_horda_n">Horda</Key>
+<Key Id="g_trybrozg_horda_o">Maior quantidade de monstros. Você recebe cristais sombrios adicionais ao derrotar chefes.</Key>
+
+<Key Id="g_trybrozg_pieklo_n">Inferno</Key>
+<Key Id="g_trybrozg_pieklo_o">Maior quantidade de monstros com pontos de vida adicionais. Você recebe ainda mais cristais sombrios ao derrotar chefes.</Key>
+
+<!--Achievements - names and descriptions-->
+<Key Id="g_gach_o_achievement">Conquista desbloqueada</Key>
+<Key Id="g_gach_o_item">Item inicial desbloqueado</Key>
+<Key Id="g_gach_o_bron">Arma inicial desbloqueada</Key>
+
+<Key Id="g_gach_o_pet">Companheiro desbloqueado</Key> <!--Pet, that helps player in battle-->
+<Key Id="g_gach_o_najemnik">Mercenário desbloqueado</Key>
+<Key Id="g_gach_o_postac">Personagem desbloqueado</Key>
+
+<Key Id="g_gaunl_granormal_n">Fim</Key>
+<Key Id="g_gaunl_granormal_o">Conclua o jogo na dificuldade Normal.</Key>
+
+<Key Id="g_gaunl_grahorda_n">Durão</Key>
+<Key Id="g_gaunl_grahorda_o">Conclua o jogo na dificuldade Horda.</Key>
+
+<Key Id="g_gaunl_grapieklo_n">Inferno na Terra</Key>
+<Key Id="g_gaunl_grapieklo_o">Conclua o jogo na dificuldade Inferno.</Key>
+
+<Key Id="g_gaunl_posbruid_n">Senhor dos Fungos</Key> <!-- Mushroom master -->
+<Key Id="g_gaunl_posbruid_o">Compre pelo menos 3 melhorias nas ruínas e desbloqueie o personagem.</Key>
+
+<Key Id="g_gaunl_posnekro_n">Necromante</Key>
+<Key Id="g_gaunl_posnekro_o">Mate 3000 monstros e desbloqueie o personagem.</Key>
+
+<Key Id="g_gaunl_poszombie_n">Zumbi</Key>
+<Key Id="g_gaunl_poszombie_o">Colete 100 resíduos de zumbis no cemitério e desbloqueie o personagem.</Key>
+
+<Key Id="g_gaunl_pospriest_n">Sacerdote</Key>
+<Key Id="g_gaunl_pospriest_o">Conclua o jogo em qualquer dificuldade e desbloqueie o personagem.</Key>
+
+<Key Id="g_gaunl_deselem1_n">Destruidor I</Key>
+<Key Id="g_gaunl_deselem1_o">Destrua 100 objetos.</Key>
+
+<Key Id="g_gaunl_deselem2_n">Destruidor II</Key>
+<Key Id="g_gaunl_deselem2_o">Destrua 300 objetos.</Key>
+
+<Key Id="g_gaunl_deselem3_n">Destruidor III</Key>
+<Key Id="g_gaunl_deselem3_o">Destrua 500 objetos.</Key>
+
+<Key Id="g_gaunl_zabpotwo1_n">Caçador de Monstros I</Key>
+<Key Id="g_gaunl_zabpotwo1_o">Mate 300 monstros.</Key>
+
+<Key Id="g_gaunl_zabpotwo2_n">Caçador de Monstros II</Key>
+<Key Id="g_gaunl_zabpotwo2_o">Mate 1000 monstros.</Key>
+
+<Key Id="g_gaunl_zabpotwo3_n">Caçador de Monstros III</Key>
+<Key Id="g_gaunl_zabpotwo3_o">Mate 2000 monstros.</Key>
+
+<Key Id="g_gaunl_otskrzy1_n">Chaveiro I</Key>
+<Key Id="g_gaunl_otskrzy1_o">Abra 5 baús.</Key>
+
+<Key Id="g_gaunl_otskrzy2_n">Chaveiro II</Key>
+<Key Id="g_gaunl_otskrzy2_o">Abra 15 baús.</Key>
+
+<Key Id="g_gaunl_otskrzy3_n">Chaveiro III</Key>
+<Key Id="g_gaunl_otskrzy3_o">Abra 30 baús.</Key>
+
+<Key Id="g_gaunl_kunajemn1_n">Aliança</Key>
+<Key Id="g_gaunl_kunajemn1_o">Contrate 4 mercenários.</Key>
+
+<Key Id="g_gaunl_kunajemn2_n">Pacto</Key>
+<Key Id="g_gaunl_kunajemn2_o">Contrate 8 mercenários.</Key>
+
+<Key Id="g_gaunl_kunajemn3_n">Juramento</Key>
+<Key Id="g_gaunl_kunajemn3_o">Contrate 30 mercenários.</Key>
+
+<Key Id="g_gaunl_minibos1_n">Caçador de Minichefes I</Key>
+<Key Id="g_gaunl_minibos1_o">Derrote 5 minichefes.</Key>
+
+<Key Id="g_gaunl_minibos2_n">Caçador de Minichefes II</Key>
+<Key Id="g_gaunl_minibos2_o">Derrote 20 minichefes.</Key>
+
+<Key Id="g_gaunl_minibos3_n">Caçador de Minichefes III</Key>
+<Key Id="g_gaunl_minibos3_o">Derrote 50 minichefes.</Key>
+
+<Key Id="g_gaunl_zabbosa1_n">Matador de Chefes</Key>
+<Key Id="g_gaunl_zabbosa1_o">Derrote 5 chefes.</Key>
+
+<Key Id="g_gaunl_zabbosa2_n">Carrasco</Key>
+<Key Id="g_gaunl_zabbosa2_o">Derrote 10 chefes.</Key>
+
+<Key Id="g_gaunl_zabbosa3_n">Aniquilador</Key>
+<Key Id="g_gaunl_zabbosa3_o">Derrote 20 chefes.</Key>
+
+<Key Id="g_gaunl_przejgreczar_n">Conclua o jogo com Charles</Key>
+<Key Id="g_gaunl_przejgreczar_o">Conclua o jogo com Charles em qualquer modo.</Key>
+
+<Key Id="g_gaunl_przejdgredziad_n">Conclua o jogo com o Vovô</Key>
+<Key Id="g_gaunl_przejdgredziad_o">Conclua o jogo com o Vovô em qualquer modo.</Key>
+
+<Key Id="g_gaunl_pgdruid_n">Conclua o jogo com o Senhor dos Fungos</Key>
+<Key Id="g_gaunl_pgdruid_o">Conclua o jogo com o Senhor dos Fungos em qualquer modo.</Key>
+
+<Key Id="g_gaunl_pgnieumarlak_n">Conclua o jogo com o Zumbi</Key>
+<Key Id="g_gaunl_pgnieumarlak_o">Conclua o jogo com o Zumbi em qualquer modo.</Key>
+
+<Key Id="g_gaunl_pgnekromanta_n">Conclua o jogo com o Necromante</Key>
+<Key Id="g_gaunl_pgnekromanta_o">Conclua o jogo com o Necromante em qualquer modo.</Key>
+
+<Key Id="g_gaunl_pgpriest_n">Conclua o jogo com o Sacerdote</Key>
+<Key Id="g_gaunl_pgpriest_o">Conclua o jogo com o Sacerdote em qualquer modo.</Key>
+
+<Key Id="g_gaunl_zbbezglowy_n">Chefe Sem Cabeça</Key>
+<Key Id="g_gaunl_zbbezglowy_o">Derrote o Sem Cabeça das Terras Devastadas.</Key>
+
+<Key Id="g_gaunl_zbcierniak_n">Chefe Espinheiro</Key>
+<Key Id="g_gaunl_zbcierniak_o">Derrote o Espinheiro das Terras Devastadas.</Key>
+
+<Key Id="g_gaunl_zbdrzewoporostow_n">Chefe Árvore Tomada pela Vegetação</Key>
+<Key Id="g_gaunl_zbdrzewoporostow_o">Derrote a Árvore Tomada pela Vegetação das Terras Devastadas.</Key>
+
+<Key Id="g_gaunl_zbdusza_n">Chefe Fantasma</Key>
+<Key Id="g_gaunl_zbdusza_o">Derrote o Fantasma da Floresta Assombrada.</Key>
+
+<Key Id="g_gaunl_zbgolemgrzyb_n">Chefe Golem Bolorento</Key>
+<Key Id="g_gaunl_zbgolemgrzyb_o">Derrote o Golem Bolorento do Subterrâneo Infectado.</Key>
+
+<Key Id="g_gaunl_zbgrzyb_n">Chefe Cogumelo</Key>
+<Key Id="g_gaunl_zbgrzyb_o">Derrote o Cogumelo do Subterrâneo Infectado.</Key>
+
+<Key Id="g_gaunl_zbmagszkielet_n">Chefe Mago Esqueleto</Key>
+<Key Id="g_gaunl_zbmagszkielet_o">Derrote o Mago Esqueleto do Cemitério.</Key>
+
+<Key Id="g_gaunl_zbmieso_n">Chefe Carne</Key>
+<Key Id="g_gaunl_zbmieso_o">Derrote a Carne do Cemitério.</Key>
+
+<Key Id="g_gaunl_zbplesn_n">Chefe Bolor</Key>
+<Key Id="g_gaunl_zbplesn_o">Derrote o Bolor do Subterrâneo Infectado.</Key>
+
+<Key Id="g_gaunl_zbstrach_n">Chefe Espantalho</Key>
+<Key Id="g_gaunl_zbstrach_o">Derrote o Espantalho da Floresta Assombrada.</Key>
+
+<Key Id="g_gaunl_zbszaman_n">Chefe Xamã</Key>
+<Key Id="g_gaunl_zbszaman_o">Derrote o Xamã da Floresta Assombrada.</Key>
+
+<Key Id="g_gaunl_zbzombietoksyczny_n">Chefe Zumbi Tóxico</Key>
+<Key Id="g_gaunl_zbzombietoksyczny_o">Derrote o Zumbi Tóxico do Cemitério.</Key>
+
+<Key Id="g_gaunl_odsecskarbiec_n">Cofre</Key>
+<Key Id="g_gaunl_odsecskarbiec_o">Encontre a fase secreta - Cofre.</Key>
+
+<Key Id="g_gaunl_odsecpodziemia_n">Submundo</Key>
+<Key Id="g_gaunl_odsecpodziemia_o">Encontre a fase secreta - Submundo.</Key>
+
+<Key Id="g_gaunl_osecodhclan_n">Limbo</Key>
+<Key Id="g_gaunl_osecodhclan_o">Encontre a fase secreta - Limbo.</Key>
+
+<Key Id="g_gaunl_oskatakumby_n">Catacumbas</Key>
+<Key Id="g_gaunl_oskatakumby_o">Encontre a fase secreta - Catacumbas.</Key>
+
+<Key Id="g_gaunl_silabadlands_n">Intocável nas Terras Devastadas</Key>
+<Key Id="g_gaunl_silabadlands_o">Derrote qualquer chefe nas Terras Devastadas sem sofrer dano.</Key>
+
+<Key Id="g_gaunl_silacmentarz_n">Intocável no Cemitério</Key>
+<Key Id="g_gaunl_silacmentarz_o">Derrote qualquer chefe no Cemitério sem sofrer dano.</Key>
+
+<Key Id="g_gaunl_silakrainacieni_n">Intocável nas Terras Sombrias</Key>
+<Key Id="g_gaunl_silakrainacieni_o">Derrote qualquer chefe nas Terras Sombrias sem sofrer dano.</Key>
+
+<Key Id="g_gaunl_silanawiedzonylas_n">Intocável na Floresta Assombrada</Key>
+<Key Id="g_gaunl_silanawiedzonylas_o">Derrote qualquer chefe na Floresta Assombrada sem sofrer dano.</Key>
+
+<Key Id="g_gaunl_silazinfekowanepodziemia_n">Intocável no Subterrâneo Infectado</Key>
+<Key Id="g_gaunl_silazinfekowanepodziemia_o">Derrote qualquer chefe no Subterrâneo Infectado sem sofrer dano.</Key>
+
+<Key Id="g_gaunl_przgrytalenty_n">Amador</Key>
+<Key Id="g_gaunl_przgrytalenty_o">Conclua o jogo sem melhorar seus talentos ou atributos.</Key>
+
+<Key Id="g_gaunl_pgrydmg_n">Intocável</Key>
+<Key Id="g_gaunl_pgrydmg_o">Conclua o jogo perdendo menos de 100 pontos de vida.</Key>
+
+<Key Id="g_gaunl_pgzdolnosci_n">Sem Habilidades</Key>
+<Key Id="g_gaunl_pgzdolnosci_o">Conclua o jogo sem usar nenhuma habilidade.</Key>
+
+<Key Id="g_gaunl_zlot1_n">Pobre</Key>
+<Key Id="g_gaunl_zlot1_o">Obtenha 100 de ouro.</Key>
+
+<Key Id="g_gaunl_zlot2_n">Nobre</Key>
+<Key Id="g_gaunl_zlot2_o">Obtenha 1000 de ouro.</Key>
+
+<Key Id="g_gaunl_zlot3_n">Rei</Key>
+<Key Id="g_gaunl_zlot3_o">Obtenha 2000 de ouro.</Key>
+
+<Key Id="g_gaunl_chat1_n">Restaurador</Key>
+<Key Id="g_gaunl_chat1_o">Compre 5 melhorias nas ruínas.</Key>
+
+<Key Id="g_gaunl_chat2_n">Renovador</Key>
+<Key Id="g_gaunl_chat2_o">Compre 10 melhorias nas ruínas.</Key>
+
+<!--Talents/statistics window-->
+<Key Id="g_taltab_stat_but_statyst">Estatísticas do jogador</Key>
+<Key Id="g_taltab_stat_cat_podsta">Básico</Key>
+<Key Id="g_taltab_stat_cat_atak">Ataque</Key>
+<Key Id="g_taltab_stat_cat_obr">Defesa</Key>
+<Key Id="g_taltab_stat_cat_dod">Adicional</Key>
+
+<!--Achievements window-->
+<Key Id="g_ach_opis">Conquistas</Key>
+
+<!--Shop window-->
+<Key Id="g_but_buy">Comprar</Key>
+<Key Id="g_shop_close">Fechar</Key>
+<Key Id="g_shop_actp">Confirmar</Key>
+
+<!--Window that shows when Esc pressed-->
+<Key Id="g_but_nowa_gra">Novo Jogo</Key>
+<Key Id="g_but_opcje">Opções</Key>
+<Key Id="g_achievements">Conquistas</Key>
+<Key Id="g_but_statystyki">Estatísticas</Key>
+<Key Id="g_but_powrot">Voltar</Key>
+<Key Id="g_but_wyjscie">Sair</Key>
+<Key Id="g_but_intro">Introdução</Key>
+<Key Id="g_but_credits">Créditos</Key>
+<Key Id="g_but_liderbordy">Ranking</Key>
+<Key Id="g_but_rangi">Patentes</Key>
+<Key Id="g_but_graj">Jogar</Key>
+
+<!--New game window-->
+<Key Id="g_ng_text_postacie">Personagens</Key>
+<Key Id="g_ng_text_zdolnosci">Habilidades</Key>
+<Key Id="g_ng_text_pasywne">Passivas</Key>
+<Key Id="g_ng_text_smieci">Itens</Key>
+<Key Id="g_ng_text_bronie">Armas</Key>
+<Key Id="g_ng_text_pety">Companheiros</Key>
+<Key Id="g_ng_text_najemnicy">Mercenários</Key>
+<Key Id="g_ng_text_smieciarka">Caminhão de Lixo</Key>
+<Key Id="g_ng_text_skorki">Visuais</Key>
+
+<!--Options-->
+<Key Id="g_option_tab_video">Gráficos</Key>
+<Key Id="g_option_tab_sounds">Áudio</Key>
+<Key Id="g_option_tab_control">Controles</Key>
+<Key Id="g_option_tab_lang">Idioma</Key>
+<Key Id="g_option_tab_play">Jogo</Key>
+<Key Id="g_option_tab_others">Outros</Key>
+<Key Id="g_option_tab_back_button">Voltar</Key>
+
+<!--other options-->
+<Key Id="g_option_oth_cat_paski">Barras de Vida (é necessário reiniciar a fase):</Key>
+<Key Id="g_option_oth_hpmonst">Monstros</Key>
+<Key Id="g_option_oth_hpsoj">Aliados</Key>
+
+<Key Id="g_option_oth_cat_wind">Abertura de janelas (se esta opção estiver desativada, elas serão abertas automaticamente ao se aproximar de um item):</Key>
+<Key Id="g_option_oth_klawisz">Tecla</Key>
+
+<!--Options video window-->
+<Key Id="g_option_vid_wybrozd">Selecionar resolução:</Key>
+<Key Id="g_option_vid_vsync">Sincronização vertical (V-Sync)</Key>
+<Key Id="g_option_vid_fullscreen">Tela cheia</Key>
+<Key Id="g_option_vid_runinbg">Executar em segundo plano</Key>
+<Key Id="g_option_vid_but_accept">Confirmar</Key>
+<Key Id="g_option_vid_kolorystyka">Paleta de cores</Key>
+<Key Id="g_option_vid_kolor_jasny">Clara</Key>
+<Key Id="g_option_vid_kolor_ciemny">Escura</Key>
+<Key Id="g_option_vid_kolor_mieszany">Mista</Key>
+<Key Id="g_option_vid_wy_kursora">Cursores:</Key>
+<Key Id="g_option_vid_kursor_interface">Cursor da interface</Key>
+<Key Id="g_option_vid_kursor_gra">Cursor do jogo</Key>
+<Key Id="g_option_vid_wielkosc_kursora">Tamanho do cursor:</Key>
+
+<!--Options keyboard window-->
+<Key Id="g_option_control_but_cweap">Trocar arma</Key>
+<Key Id="g_option_control_but_sitoltip">Janela de itens ao passar o mouse</Key> <!-- Shows item stats when you move the mouse cursor at item-->
+<Key Id="g_option_control_but_przyitem">Atração de itens</Key>
+<Key Id="g_option_control_but_wepcd">Arma básica</Key>
+<Key Id="g_option_control_but_weammo">Arma de mana</Key>
+<Key Id="g_option_control_but_map">Mapa</Key>
+<Key Id="g_option_control_but_lewo">Esquerda</Key>
+<Key Id="g_option_control_but_prawo">Direita</Key>
+<Key Id="g_option_control_but_gura">Cima</Key>
+<Key Id="g_option_control_but_dul">Baixo</Key>
+<Key Id="g_option_control_but_skil_jeden">Habilidade básica</Key>
+<Key Id="g_option_control_but_skil_dwa">Habilidade especial</Key>
+<Key Id="g_option_control_but_bomb">Livro</Key>
+<Key Id="g_option_control_but_potion">Item consumível</Key>
+<Key Id="g_option_control_but_podniesienieitemu">Pegar item</Key>
+<Key Id="g_option_control_but_talenty">Janela de talentos</Key>
+<Key Id="g_option_control_but_okno">Mostrar janela</Key>
+<Key Id="g_option_control_domyslne">Configurações padrão</Key>
+<Key Id="g_option_control_anuluj">Pressione ESC para cancelar</Key>
+<Key Id="g_option_control_wcisnij_klawisz">Pressione qualquer tecla</Key>
+<Key Id="g_option_control_grupa_podstawowa">Básico</Key>
+<Key Id="g_option_control_grupa_alternatywne">Alternativo</Key>
+
+<!--Options sound window-->
+<Key Id="g_option_sounds_master">Volume geral</Key>
+<Key Id="g_option_sounds_music">Música</Key>
+<Key Id="g_option_sounds_ambience">Ambiente</Key>
+<Key Id="g_option_sounds_sound">Sons</Key>
+
+<Key Id="g_option_lang_obecny_jezyk">Idioma atual:</Key>
+<Key Id="g_option_lang_wyb_jezyka">Idiomas disponíveis:</Key>
+
+<Key Id="g_option_rozgrywka_opje_cam">Opções de câmera:</Key>
+<Key Id="g_option_rozgrywka_cam_fov">FOV</Key> <!-- field of view - leave as it is -->
+<Key Id="g_option_rozgrywka_fov_x">Aceleração X</Key>
+<Key Id="g_option_rozgrywka_fov_y">Aceleração Y</Key>
+<Key Id="g_option_rozgrywka_spawn">Exibição:</Key>
+<Key Id="g_option_rozgrywka_sp_krew">Mostrar sangue</Key>
+<Key Id="g_option_rozgrywka_sp_zwloki">Mostrar cadáveres</Key>
+<Key Id="g_option_rozgrywka_sp_brudy">Mostrar vestígios de explosões</Key>
+<Key Id="g_option_rozgrywka_niszczenie">Desvanecimento:</Key>
+<Key Id="g_option_rozgrywka_ni_krew">O sangue desaparece após algum tempo</Key>
+<Key Id="g_option_rozgrywka_ni_zwloki">Os cadáveres desaparecem após algum tempo</Key>
+<Key Id="g_option_rozgrywka_ni_brudy">A sujeira da superfície desaparece após algum tempo</Key>
+<Key Id="g_option_rozgrywka_ni_boss">Os cadáveres desaparecem após algum tempo em níveis de chefe</Key>
+<Key Id="g_option_rozgrywka_ni_zwloki_fizyka">Desativar física de cadáveres após algum tempo</Key>
+
+<!--tooltips-->
+<Key Id="g_wlasciwosci_itemu">Propriedades do item</Key>
+<Key Id="g_item_recei">Você recebeu um item</Key>
+
+<!--Leaderboard window-->
+<Key Id="g_sra_nazwa_liderborda">Tabelas de classificação</Key>
+<Key Id="g_sra_wyb_trybu">Escolher tabela</Key> <!--ranking choosing, depends on a game mode-->
+<Key Id="g_sra_opis_ranga">Posição</Key>
+<Key Id="g_sra_opis_gracz">Jogador</Key>
+<Key Id="g_sra_opis_punkty">Pontos</Key>
+<Key Id="g_sra_opis_poziom">Área</Key>
+<Key Id="g_sra_opis_ikony">Personagem</Key>
+<Key Id="g_sra_opis_przyjacieley">Amigos</Key>
+
+<!--Talents window-->
+<Key Id="g_wtal_but_naucz">Aprender</Key>
+<Key Id="g_wtal_but_oducz">Desaprender</Key>
+
+<Key Id="g_wtal_opis_poziom">Nível</Key>
+<Key Id="g_wtal_opis_statystyka">Estatísticas</Key>
+<Key Id="g_wtal_opis_talenty">Talentos</Key>
+
+<!--Talents window - talents names and descriptions-->
+<Key Id="g_talent_piroman_n">Piromaníaco</Key>
+<Key Id="g_talent_piroman_o">Você é imune a itens explosivos.</Key>	
+
+<Key Id="g_talent_bijzblis_n">Combate corpo a corpo</Key>
+<Key Id="g_talent_bijzblis_o">Aumenta o dano contra inimigos em curta distância.</Key>	
+
+<Key Id="g_talent_bijzdal_n">Combate à distância</Key>
+<Key Id="g_talent_bijzdal_o">Aumenta o dano contra inimigos à distância.</Key>	
+
+<Key Id="g_talent_msziel_n">Armadura de mana</Key>
+<Key Id="g_talent_msziel_o">Ao sofrer dano, você perde mana em vez de vida.</Key>	
+
+<Key Id="g_talent_supheli_n">Cura adicional</Key>
+<Key Id="g_talent_supheli_o">Itens de cura restauram mais vida.</Key>	
+
+<Key Id="g_talent_kradzmany_n">Roubo de mana</Key>
+<Key Id="g_talent_kradzmany_o">Chance de regenerar mana ao acertar um ataque.</Key>	
+
+<Key Id="g_talent_obrona_n">Defesa</Key>
+<Key Id="g_talent_obrona_o">Ao ser atingido, você pode obter uma redução temporária de dano.</Key>	
+
+<Key Id="g_talent_szal_n">Fúria</Key>
+<Key Id="g_talent_szal_o">Ao derrotar um inimigo, há uma chance de receber um aumento temporário de dano.</Key>	
+
+<Key Id="g_talent_berserk_n">Berserker</Key>
+<Key Id="g_talent_berserk_o">Aumenta o dano, mas também o dano recebido.</Key>	
+
+<Key Id="g_talent_czarksiega_n">Conhecimento arcano</Key>
+<Key Id="g_talent_czarksiega_o">Chance de regenerar o poder do livro de magia ao sofrer dano.</Key>	
+
+<Key Id="g_talent_ewolucja_n">Evolução</Key>
+<Key Id="g_talent_ewolucja_o">Permite uso mais frequente de livros de magia.</Key>	
+
+<Key Id="g_talent_nieskmikst_n">Poção infinita</Key>
+<Key Id="g_talent_nieskmikst_o">Itens consumíveis não são destruídos ao usar.</Key>	
+
+<Key Id="g_talent_wielopocisk_n">Múltiplos projéteis</Key>
+<Key Id="g_talent_wielopocisk_o">Ao usar arma de mana, você dispara projéteis adicionais.</Key>	
+
+<Key Id="g_talent_mocnieba_n">Ajuda do céu</Key>
+<Key Id="g_talent_mocnieba_o">Ao causar dano a inimigos, raios de fogo celestial são lançados contra eles.</Key>	
+
+<Key Id="g_talent_skil1_n">Jogador treinado</Key>
+<Key Id="g_talent_skil1_o">Aumenta a frequência permitida de uso da habilidade básica.</Key>	
+
+<Key Id="g_talent_skil2_n">Jogador experiente</Key>
+<Key Id="g_talent_skil2_o">Aumenta a frequência permitida de uso da habilidade especial.</Key>	
+
+<Key Id="g_talent_smierdziuch_n">Fedorento</Key>
+<Key Id="g_talent_smierdziuch_o">Ao andar, você gera gases com mau cheiro.</Key>	
+
+<Key Id="g_talent_ekstraobr_n">Defesa adicional</Key>
+<Key Id="g_talent_ekstraobr_o">Se você não sofrer dano por 15 segundos, o próximo dano recebido é reduzido.</Key>	
+
+<Key Id="g_talent_bobacz_n">Magnata</Key>
+<Key Id="g_talent_bobacz_o">Aumenta a quantidade de ouro encontrado.</Key>	
+
+<Key Id="g_talent_klepsydra_n">Ampulheta</Key>
+<Key Id="g_talent_klepsydra_o">Chance de desacelerar projéteis inimigos.</Key>	
+
+<Key Id="g_talent_blskawica_n">Relâmpago</Key>
+<Key Id="g_talent_blskawica_o">Ao acertar um inimigo, ele pode ser atingido por um relâmpago.</Key>	
+
+<Key Id="g_talent_granadier_n">Granadeiro</Key>
+<Key Id="g_talent_granadier_o">Ao acertar um inimigo, bombas tóxicas podem sair de você.</Key>	
+
+
+<Key Id="g_talent_plecmocy_n">Mochila de poder</Key>
+<Key Id="g_talent_plecmocy_o">Cada item na sua mochila aumenta o dano em 1%.</Key>
+
+<Key Id="g_talent_silnaj_n">Poder dos mercenários</Key>
+<Key Id="g_talent_silnaj_o">Cada mercenário aumenta seu dano em 5%.</Key>
+
+<Key Id="g_talent_suppred_n">Corrida</Key>
+<Key Id="g_talent_suppred_o">Velocidade de movimento aumentada em 50%.</Key>
+
+<Key Id="g_talent_mocnisz_n">Poder de destruição</Key>
+<Key Id="g_talent_mocnisz_o">Ao destruir objetos no mapa, você tem chance de receber um bônus temporário de atributos.</Key>
+
+<Key Id="g_talent_silapetow_n">Suporte</Key>
+<Key Id="g_talent_silapetow_o">Cada ajudante aumenta seu dano em 5%.</Key>
+
+<Key Id="g_talent_spowolnienie_n">Desaceleração</Key>
+<Key Id="g_talent_spowolnienie_o">Ao destruir objetos no mapa, pode surgir uma nuvem que desacelera seus inimigos.</Key>
+
+<Key Id="g_talent_eksplelem_n">Item explosivo</Key>				
+<Key Id="g_talent_eksplelem_o">Ao destruir objetos no mapa, eles também podem explodir.</Key>
+
+<Key Id="g_talent_sila_n">Força em combate</Key>
+<Key Id="g_talent_sila_o">Seu dano é aumentado em níveis de chefe.</Key>
+
+<Key Id="g_talent_alchem_n">Alquimista</Key>
+<Key Id="g_talent_alchem_o">Ao usar um item consumível, como uma poção, você também restaura vida.</Key>
+
+<Key Id="g_talent_samlecz_n">Conhecimento</Key>
+<Key Id="g_talent_samlecz_o">Ao usar um livro, você recebe um bônus temporário de atributos.</Key>
+
+<Key Id="g_talent_podpal_n">Incendiário</Key>
+<Key Id="g_talent_podpal_o">Ao matar um inimigo, uma parede de fogo pode surgir no local do cadáver.</Key>
+
+<Key Id="g_talent_technik_n">Técnico</Key>
+<Key Id="g_talent_technik_o">Ao matar um monstro, uma arma pesada pode surgir para atacar inimigos.</Key>
+
+<Key Id="g_talent_oslona_n">Escudo</Key>
+<Key Id="g_talent_oslona_o">Ao sofrer dano, você tem chance de criar uma zona de proteção que destrói projéteis inimigos.</Key>
+
+<Key Id="g_talent_zemsdusz_n">Vingança dos espíritos</Key>
+<Key Id="g_talent_zemsdusz_o">Ao atacar inimigos, um fantasma pode surgir e voar diretamente contra o alvo.</Key>
+
+
+<!--Map window-->
+<Key Id="g_map_title">Mapa</Key>
+
+<!--Crystal shop window-->
+<Key Id="g_sk_nazwa">Cristal</Key>
+<Key Id="g_sk_zakpodtswowe">Melhorias básicas:</Key>	
+<Key Id="g_sk_zakstatzycia">Melhoria de vida:</Key>
+<Key Id="g_sk_zakstatmany">Melhoria de mana:</Key>	
+<Key Id="g_sk_zakstatarmor">Melhoria de armadura:</Key>	
+<Key Id="g_sk_zakobron">Melhoria de defesa das ruínas:</Key> <!--Ruins = a place where player starts each level-->
+
+<!--Currency exchange window-->
+<Key Id="g_szmwal_opis">Troque suas moedas:</Key>	
+<Key Id="g_szmwal_butwymien">Trocar</Key>
+
+<!--Ranks-->
+<Key Id="g_rg_1_n">Estudante</Key>
+<Key Id="g_rg_1_o"></Key>	
+<Key Id="g_rg_2_n">Encrenqueiro</Key>
+<Key Id="g_rg_2_o"></Key>
+<Key Id="g_rg_3_n">Guardião</Key>
+<Key Id="g_rg_3_o"></Key>
+<Key Id="g_rg_4_n">Vingador</Key>
+<Key Id="g_rg_4_o"></Key>
+<Key Id="g_rg_5_n">Adepto</Key>
+<Key Id="g_rg_5_o"></Key>
+<Key Id="g_rg_6_n">Especialista</Key>
+<Key Id="g_rg_6_o"></Key>
+<Key Id="g_rg_7_n">Vitorioso</Key>
+<Key Id="g_rg_7_o"></Key>
+<Key Id="g_rg_8_n">Mestre</Key>
+<Key Id="g_rg_8_o"></Key>
+<Key Id="g_rg_9_n"></Key>
+<Key Id="g_rg_9_o"></Key>
+<Key Id="g_rg_10_n"></Key>
+<Key Id="g_rg_10_o"></Key>
+
+<!--Ranks window-->
+<Key Id="g_orang_nazwa_okna">Ranks</Key>
+
+<!--Portals-->
+<Key Id="g_port_seskarb_n">Portal dourado</Key>
+<Key Id="g_port_seskarb_o">Para onde esse estranho portal leva? Vale a pena atravessá-lo?</Key>	
+
+<Key Id="g_port_pentagram_n">Pentagrama</Key>
+<Key Id="g_port_pentagram_o">Tem certeza de que quer usar o poder do pentagrama?</Key>	
+
+<Key Id="g_port_studnia_n">Poço sem fundo</Key>
+<Key Id="g_port_studnia_o">O poço é tão profundo que não dá para ver o fundo. Talvez valha a pena pular?</Key>
+
+<Key Id="g_port_skarbrama_n">Portão dourado</Key>
+<Key Id="g_port_skarbrama_o">Parece estar fechado. Você precisa de várias chaves para abri-lo.</Key>
+
+<Key Id="g_port_skarzlotskalk_n">Rocha dourada</Key>
+<Key Id="g_port_skarzlotskalk_o">Para onde essa caverna leva?</Key>
+
+<Key Id="g_port_kryzamkn_n">Cristal fechado</Key>
+<Key Id="g_port_kryzamkn_o">Você precisará de várias chaves para abrir a prisão.</Key>
+
+<Key Id="g_port_kryotwar_n">Cristal</Key>
+<Key Id="g_port_kryotwar_o">Para onde essa pedra de teleporte leva você?</Key>
+
+<Key Id="g_port_skalportal_n">Rocha estranha</Key>
+<Key Id="g_port_skalportal_o">Para onde esse túnel leva?</Key>
+
+<Key Id="g_port_drzwdziura_n">Árvore antiga</Key>
+<Key Id="g_port_drzwdziura_o">O tronco desta árvore é oco. Pode valer a pena olhar dentro.</Key>
+
+<Key Id="g_port_czrdzura_n">Buraco negro</Key>
+<Key Id="g_port_czrdzura_o">Este portal escuro parece levar ao abismo.</Key>
+
+<Key Id="g_port_minbdziura_n">Monstro com buraco</Key>
+<Key Id="g_port_minbdziura_o">Este monstro tem um portal pelo qual você pode passar.</Key>
+
+<!--End level portal-->
+<Key Id="g_port_lwend_n">Portal</Key>
+<Key Id="g_port_lwend_o">Este portal leva você para a próxima terra.</Key>	
+
+<Key Id="g_port_konpoz_n">Portal de fim de jogo</Key>
+<Key Id="g_port_konpoz_o">Este portal permite encerrar o jogo.</Key>	
+
+<Key Id="g_port_krypta_n">Cripta</Key>
+<Key Id="g_port_krypta_o">A entrada da cripta está fechada. Você precisa de várias chaves para abri-la.</Key>	
+
+<Key Id="g_port_otwargrub_n">Tumba aberta</Key>
+<Key Id="g_port_otwargrub_o">O túmulo está aberto, mas não dá para ver o fundo. Pode valer a pena olhar dentro.</Key>	
+
+<Key Id="g_port_duzurna_n">Buraco no chão</Key>
+<Key Id="g_port_duzurna_o">Esta urna cobre um buraco no chão. Pode valer a pena descer para ver o que há lá.</Key>
+
+<!--Mercenaries window-->
+<Key Id="g_naj_shop_magszkielet_n">Lápide</Key>
+<Key Id="g_naj_shop_magszkielet_o">Por uma taxa, você pode invocar um ajudante do mundo dos mortos.</Key>	
+
+<Key Id="g_naj_shop_mroczymag_n">Tocha sombria</Key>
+<Key Id="g_naj_shop_mroczymag_o">Aqui, você pode contratar magos das trevas.</Key>
+
+<Key Id="g_naj_shop_plondem_n">Raiz demoníaca</Key>
+<Key Id="g_naj_shop_plondem_o">Traga demônios de fogo para este mundo para ajudar na batalha.</Key>
+
+<Key Id="g_naj_shop_szkielsiek_n">Lápide de ossos</Key>
+<Key Id="g_naj_shop_szkielsiek_o">Esqueletos aguardam suas ordens.</Key>
+
+<Key Id="g_naj_shop_zapalacz_n">Raiz em chamas</Key>
+<Key Id="g_naj_shop_zapalacz_o">Invoca criaturas de fogo que lutarão ao seu lado.</Key>
+
+<Key Id="g_naj_shop_zombmacz_n">Poço de lodo</Key>
+<Key Id="g_naj_shop_zombmacz_o">Zumbis aguardam suas ordens.</Key>
+
+<Key Id="g_naj_shop_glingolem_n">Rocha de argila</Key>
+<Key Id="g_naj_shop_glingolem_o">Invoca um demônio de argila para ajudar na batalha.</Key>
+
+<Key Id="g_naj_shop_drzewszech_n">Árvore com olhos</Key>
+<Key Id="g_naj_shop_drzewszech_o">Invoca um olho mágico para lutar ao seu lado.</Key>
+
+<Key Id="g_naj_shop_grzyb_n">Cogumelo grande</Key>
+<Key Id="g_naj_shop_grzyb_o">Contrate um cogumelo atirador para te ajudar na batalha.</Key>
+
+<!--Rare elements-->
+<Key Id="g_ez_maszlos_n">Cogumelo jogador</Key>
+<Key Id="g_ez_maszlos_o">Por uma taxa, você recebe um item aleatório.</Key>	
+
+<Key Id="g_ez_kopzlota_n">Mina de ouro</Key>
+<Key Id="g_ez_kopzlota_o">A quantidade de ouro coletado é aumentada.</Key>
+
+
+</Languages>
